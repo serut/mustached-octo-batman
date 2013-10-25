@@ -1,0 +1,853 @@
+/* ==========================================================================
+   Base styles: opinionated defaults
+   ========================================================================== */
+html,
+button,
+input,
+select,
+textarea {
+    color: #222;
+}
+
+html {
+    font-size: 0.9em;
+    line-height: 1.4;
+}
+
+/*
+ * Customisation des sélections
+ */
+
+::-moz-selection {
+    background: #b3d4fc;
+    text-shadow: none;
+}
+
+::selection {
+    background: #b3d4fc;
+    text-shadow: none;
+}
+
+/*
+ * Règles horizontales plus jolies
+ */
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
+
+/*
+ * Aligner les balises média avec le reste
+ */
+
+audio,
+canvas,
+img,
+video {
+    vertical-align: middle;
+}
+
+
+html,body{
+					margin:0;
+					padding:0;
+					height:100%;
+					background: #EEEEEE;
+					font-family:Arial,Verdana;
+				}
+				
+				
+
+				#button-login{
+					display:inline-block;
+					border-radius:3px;
+					font-size: 12px;
+					color:#222222;
+					cursor:pointer;
+				}
+				
+				ul{
+					margin:0;
+					padding:0;
+					list-style-type:none;
+				}
+				#logo{
+					background: url("../img/logo.jpg") no-repeat center center;
+					width:133px;
+					height:41px;
+					margin:10px auto 10px auto;
+					cursor:pointer;
+				}
+
+				#main-container{
+					height:100%;
+				}
+				
+			
+				#drop-container{
+					background-color:#3C3C3C;
+					padding:5px;
+					border-radius:3px;
+					margin:10px;
+					width:170px;
+					overflow: hidden;
+					display: none;
+				}
+				
+				#drop-zone{
+					color:#cecece;
+					text-align:center;
+					border-radius:3px;
+					height: 50px;
+					background:url('../img/upload-inscription.png') no-repeat center center #222222;
+				}
+				.file-name{
+					float:left;
+					width:150px;
+					overflow: hidden;
+				}
+				.icon-file-setting{
+					background:url('../img/icon-setting.png') no-repeat center center;
+					height:16px;
+					width:16px;
+					margin-right:5px;
+					float:right;
+					cursor:pointer;
+					opacity: 0;
+					-webkit-transition: opacity 0.3s ease-in-out;
+					-moz-transition: opacity 0.3s ease-in-out;
+					-ms-transition: opacity 0.3s ease-in-out;
+					-o-transition: opacity 0.3s ease-in-out;
+					transition: opacity 0.3s ease-in-out;
+				}
+				.icon-file-delete{
+					background:url('../img/icon-delete.png') no-repeat center center;
+					height:16px;
+					width:16px;
+					float:right;
+					cursor:pointer;
+  					opacity: 0;
+  					-webkit-transition: opacity 0.3s ease-in-out;
+					-moz-transition: opacity 0.3s ease-in-out;
+					-ms-transition: opacity 0.3s ease-in-out;
+					-o-transition: opacity 0.3s ease-in-out;
+					transition: opacity 0.3s ease-in-out;
+				}
+
+				#uploadButton {
+				    background-color: rgba(0, 0, 0, 0);
+				    border: medium none;
+				    cursor: pointer;
+				    font-size: 110px;
+				    height: 50px;
+				    margin: 0;
+				    opacity: 0;
+				    width: 180px;
+				}
+
+				#global-preloader{
+					background-color:#000000;
+					color:#cecece;
+					text-align:center;
+					padding:5px;
+					margin:10px;
+					border-radius:3px;
+					display:none;
+				}
+				#file-list{
+				
+					text-align:center;
+					margin:15px 10px;
+					border-radius:3px;
+					display: none;
+				}
+				#file-list li{
+					text-align: left;
+					color:#ffffff;
+					font-size: 12px;
+					opacity:0.5;
+					margin-bottom: 5px;
+					cursor: pointer;
+					-webkit-transition: opacity 0.2s ease-in-out;
+					-moz-transition: opacity 0.2s ease-in-out;
+					-ms-transition: opacity 0.2s ease-in-out;
+					-o-transition: opacity 0.2s ease-in-out;
+					transition: opacity 0.2s ease-in-out;
+				}
+				
+				#file-list li:hover{
+					opacity:0.8;
+				}
+
+				#file-list li:hover .icon-file-setting,#file-list li:hover .icon-file-delete{
+					opacity:0.8;
+				}
+
+				#search-zone{
+					color:#cecece;
+					padding:5px;
+					margin:10px;
+					display: none;
+					border-bottom: 1px dashed #5B5B5B;
+				}
+				#search-zone img{
+					opacity: 0.5;
+				}
+				
+				#search-zone input{
+					background-color:transparent;
+					border:none;
+					padding:0px;
+					color:#cecece;
+					width:140px;
+				}
+				
+				#menu{
+					color:#cecece;
+					text-align:left;
+					padding:5px;
+					margin:10px;
+				}
+				textarea#menu{
+					background-color: transparent;
+					color:#cecece;
+					width:90%;
+					border:none;
+				}
+				#menu li{
+					font-size: 14px;
+					cursor:pointer;
+					background: url('../img/icon-menu-item.png') no-repeat 10px center;
+					padding-left: 20px;
+					border-bottom: 1px solid transparent;
+					padding: 3px 3px 3px 20px;
+    			 	-webkit-transition: background-color 100ms linear;
+				     -moz-transition: background-color 100ms linear;
+				     -o-transition: background-color 100ms linear;
+				     -ms-transition: background-color 100ms linear;
+				     transition: background-color 100ms linear;
+				}
+				#menu li:hover{
+					color:#ffffff;
+					border-radius: 3px;
+					background-color: #363636;
+    				border-bottom: 1px solid #474747;
+				}
+
+				#menu li a{
+					color:#cecece;
+					text-decoration: none;
+				}
+
+				#menu li:hover a{
+					color:#ffffff;
+				}
+
+				
+
+				.rss-button{
+					background: url("../img/icon-rss-white.png") no-repeat 5px center;
+					
+					-webkit-transition: opacity 0.2s ease-in-out;
+					-moz-transition: opacity 0.2s ease-in-out;
+					-ms-transition: opacity 0.2s ease-in-out;
+					-o-transition: opacity 0.2s ease-in-out;
+					transition: opacity 0.2s ease-in-out;
+					border:1px solid tansparent;
+					opacity: 0.2;	
+					background-color: #000000;
+					cursor: pointer;
+					padding: 5px 5px 5px 25px;
+					border-top:1px solid #252525;
+
+				}
+				.rss-button:hover{
+					opacity: 1;
+
+				}
+
+				#option-edit-menu{
+					background: url("../img/icon-edit-white.png") no-repeat 5px center;
+					padding-left: 25px;
+					-webkit-transition: opacity 0.2s ease-in-out;
+					-moz-transition: opacity 0.2s ease-in-out;
+					-ms-transition: opacity 0.2s ease-in-out;
+					-o-transition: opacity 0.2s ease-in-out;
+					transition: opacity 0.2s ease-in-out;
+					border:1px solid tansparent;
+					opacity: 0.2;		
+					border-top:1px solid #252525;
+					margin-top: 20px;	
+					background-color: #000000;
+					cursor: pointer;
+					padding: 5px 5px 5px 25px;	
+				}
+
+				#option-edit-menu:hover{
+					opacity: 1;
+				}
+
+
+
+				#share-container{
+					margin:10px;
+					background-color:#000000;
+					color:#cecece;
+					text-align:left;
+					padding:5px;
+					border-radius:3px;
+				}
+				#related-list{
+					margin:10px;
+					background-color:#000000;
+					color:#cecece;
+					text-align:left;
+					padding:5px;
+					border-radius:3px;
+				}
+				
+				#content-container{
+					padding:0px 10px 0 10px;
+					width: 60%;
+					margin:auto;
+					height:100%;
+				}
+
+
+				#content-options li{
+					float:left;
+					margin:5px 5px 5px 0;
+					padding:5px;
+					border:1px solid transparent;
+					background-color: #ffffff;
+					border-radius:3px;
+					list-style-type:none;
+					cursor:pointer;
+					opacity: 0.2;
+				}
+				#content-options li#option-edit{
+					background: url("../img/icon-edit.png") no-repeat 5px center;
+					padding-left: 25px;
+					-webkit-transition: opacity 0.2s ease-in-out;
+					-moz-transition: opacity 0.2s ease-in-out;
+					-ms-transition: opacity 0.2s ease-in-out;
+					-o-transition: opacity 0.2s ease-in-out;
+					transition: opacity 0.2s ease-in-out;
+				}
+
+				#content-options li#option-edit:hover{
+					border:1px solid #cecece;
+					opacity: 1;
+					background-color: #ffffff;
+				}
+
+
+				#content-options li#option-login{
+					background: url("../img/icon-login.png") no-repeat 5px center;
+					padding-left: 30px;
+					-webkit-transition: opacity 0.2s ease-in-out;
+					-moz-transition: opacity 0.2s ease-in-out;
+					-ms-transition: opacity 0.2s ease-in-out;
+					-o-transition: opacity 0.2s ease-in-out;
+					transition: opacity 0.2s ease-in-out;
+				}
+				#content-options li#option-login:hover{
+					border:1px solid #cecece;
+					opacity: 1;
+					background-color: #ffffff;
+				}
+
+				#input-login,#input-password{
+					border:none;
+					background-color: transparent;
+				}
+				#input-login{
+					border-right: 1px solid #cecece;
+				}
+
+				#footer-container{
+					width:100%;
+				}
+				.clear{
+					clear:both;
+				}
+				progress{ 
+					display: inline-block;
+					-moz-box-sizing: border-box;
+					box-sizing: border-box;
+					width: 100%;
+					height: 20px;
+					padding: 3px 3px 2px 3px;
+					background: #333;
+					background: -webkit-linear-gradient(#2d2d2d,#444);
+					background: -moz-linear-gradient(#2d2d2d,#444);
+					background: -o-linear-gradient(#2d2d2d,#444);
+					background: linear-gradient(#2d2d2d,#444);
+					border: 1px solid rgba(0,0,0,.5);
+					border-radius: 15px;
+					box-shadow: 0 1px 0 rgba(255,255,255,.2); 
+				}
+				/* Style de la barre pour Firefox*/ 
+				progress::-moz-progress-bar{ 
+					border-radius:3px; 
+					background: #09c; 
+					background: -moz-repeating-linear-gradient( 45deg, rgba(255,255,255,.2) 0, rgba(255,255,255,.2) 10px, rgba(255,255,255,0) 10px, rgba(255,255,255,0) 20px ), -moz-linear-gradient( rgba(255,255,255,.1) 50%, rgba(255,255,255,0) 60% ), #09c; 
+					background: repeating-linear-gradient( 45deg, rgba(255,255,255,.2) 0, rgba(255,255,255,.2) 10px, rgba(255,255,255,0) 10px, rgba(255,255,255,0) 20px ), linear-gradient( rgba(255,255,255,.1) 50%, rgba(255,255,255,0) 60% ), #09c; 
+					background-size: 300px 20px, auto, auto; 
+					background-position: -300px 0, top, top; 
+					background-position: top right, top, top;
+					box-shadow: 0 1px 0 rgba(255,255,255,.5) inset, 0 -1px 0 rgba(0,0,0,.8) inset, 0 0 2px black; 
+				} 
+				/* Style de la barre pour Chrome*/ 
+				progress::-webkit-progress-value{ 
+					border-radius:3px; 
+					background: #09c; 
+					background: -webkit-repeating-linear-gradient( 45deg, rgba(255,255,255,.2) 0, rgba(255,255,255,.2) 10px, rgba(255,255,255,0) 10px, rgba(255,255,255,0) 20px ), -webkit-linear-gradient( rgba(255,255,255,.1) 50%, rgba(255,255,255,0) 60% ), #09c; 
+					background: repeating-linear-gradient( 45deg, rgba(255,255,255,.2) 0, rgba(255,255,255,.2) 10px, rgba(255,255,255,0) 10px, rgba(255,255,255,0) 20px ), linear-gradient( rgba(255,255,255,.1) 50%, rgba(255,255,255,0) 60% ), #09c; 
+					background-size: 300px 20px, auto, auto; 
+					background-position: -300px 0, top, top; 
+					background-position: top right, top, top;
+					box-shadow: 0 1px 0 rgba(255,255,255,.5) inset, 0 -1px 0 rgba(0,0,0,.8) inset, 0 0 2px black;  
+				}
+				
+				/* Enlève la couleur d'arrière-plan */ 
+				progress::-webkit-progress-bar{
+					background: transparent; 
+				}
+				progress span{ 
+					-webkit-transition: width 1.6s linear;
+					-moz-transition: width 1.6s linear;
+					-o-transition: width 1.6s linear;
+					transition: width 1.6s linear; 
+				}
+				
+				.progressBloc{
+					background-color:#222222;
+					width:100%;
+					height:20px;
+				}
+
+				.emphasis{
+					font-weight: bold;
+				}
+
+/* ==========================================================================
+   Content classes
+   ========================================================================== */
+
+
+#content{
+	font-family: "Open sans", "Helvetica Neue", "HelveticaNeue", Helvetica, Arial, sans-serif;
+	color:#222222;
+	line-height: 1.6;
+	font-weight: 400;
+    font-smooth:always;
+	-webkit-font-smoothing: antialiased;
+	font-smoothing: antialiased;
+	width:100%;
+	height:90%;
+	background-color: transparent;
+	border:none;
+}
+textarea#content{
+	font-size: 14px;
+}
+
+::-moz-selection { background: #222222; color: #ffffff; text-shadow: none;border:1px; }
+::selection { background: #222222; color: #ffffff; text-shadow: none; }	
+
+#content a:after {
+    background: url("../img/icon-link.png") no-repeat scroll 0 0 transparent;
+    content: "";
+    display: inline-block;
+    height: 16px;
+    margin-left: 3px;
+    vertical-align: middle;
+    width: 16px;
+}
+#content a {
+    color: #0078CF;
+    cursor: pointer;
+    font-weight: normal;
+    text-decoration: none;
+    transition: color 0.2s ease 0s;
+}
+
+#content i{
+	font-family: "Open sans", "Helvetica Neue", "HelveticaNeue", Helvetica, Arial, sans-serif;
+}
+
+#content p{margin: 1.2em 0 1.2em 0;}
+#content p:last-child {margin-bottom: 0;}
+#content a:visited{opacity:0.9;}
+#content a:active, a:focus{position:relative;top:1px;}
+
+#content h1, h2, h3, h4, h5, h6 {
+    color: #555555;
+    
+    letter-spacing: -0.05em;
+    line-height: 1;
+    margin: 0 0 20px;
+}
+#content h1 {
+    font-size: 2.6em;
+
+}
+#content h2 {
+    font-size: 2.3em;
+}
+#content h3 {
+    font-size: 2.0em;
+}
+#content h4 {
+    font-size: 1.7em;
+}
+#content h5{
+    font-size: 1.4em;
+}
+#content h6 {
+    font-size: 1.1em;
+    letter-spacing: 0em;
+}
+#content hr {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    border-color: #DDDDDD -moz-use-text-color -moz-use-text-color;
+    border-image: none;
+    border-right: 0 none;
+    border-style: solid none none;
+    border-width: 1px 0 0;
+    display: block;
+    height: 1px;
+    margin: 1em 0;
+    padding: 0;
+}
+
+#content dfn{font-style:italic}
+#content q{quotes:none}
+#content q:before, q:after{content:""; content:none}
+#content blockquote,q { 
+    background: none repeat scroll 0 0 #EEEEEE;
+    border-left: 5px solid #D6D6D6;
+    color: #656565;
+    font-style: italic;
+    margin: 1em 1em 1em 0;
+    padding: 1em;
+}
+
+
+#content blockquote small {display: block;font-size: 1em;line-height: 1.6em;color: #bfbfbf; text-align: right;}
+#content blockquote small:before {content: 'ʻʻ';font-size:18px;font-family: "Open sans", "Helvetica Neue", "HelveticaNeue", Helvetica, Arial, sans-serif;}
+#content blockquote small:after {content: 'ʼʼ';font-size:18px;font-family: "Open sans", "Helvetica Neue", "HelveticaNeue", Helvetica, Arial, sans-serif;}
+#content b, strong{font-family: "Open sans", "Helvetica Neue", "HelveticaNeue", Helvetica, Arial, sans-serif;}
+#content small{font-size:85%; color: #999;}
+#content ul{list-style:none; list-style-image:none; margin:0; padding:0;}
+#content ol li{
+ line-height: 2.5;   
+}
+
+#content ul li:before {
+    color: #DDDDDD;
+    content: "✔";
+    line-height: 2;
+    margin-right: 0.9em;
+}
+#content img{border:0; -ms-interpolation-mode:bicubic; vertical-align:middle}
+
+
+#content a img {
+    -webkit-transition: opacity 1s ease;
+    -moz-transition: opacity 1s ease;
+    -o-transition: opacity 1s ease;
+    -ms-transition: opacity 1s ease;
+    transition: opacity 1s ease; 
+}
+#content a img:hover {
+	*zoom: 1;
+	opacity: 0.7;
+	-ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity = 70);
+	filter: alpha(opacity = 70);
+}
+
+#content .warning { 
+	display: block; 
+	background: #F5F5F5; 
+    color:#a82200;
+    font-size:15px;
+	border: 1px solid #cf7272; border-left: none; border-right: none; 
+	text-align: center; 
+	padding: 20px; margin: 20px 0px; 
+}
+
+
+#content table{
+	border: 0px;
+	border-collapse: collapse;
+}
+#content table td{
+	border: 1px solid #cecece;
+	padding:5px;
+	text-align: center;
+	background-color: #ffffff;
+}
+#content table th{
+	color:#ffffff;
+	font-family: "Open sans", "Helvetica Neue", "HelveticaNeue", Helvetica, Arial, sans-serif;
+	background-color: #222222;
+	text-align: center;
+	padding:6px;
+	
+	border-bottom:3px solid #B8B8B8; 
+}
+#content table th:first-child{
+	border-radius: 3px 0 0 0;
+}
+#content table th:last-child{
+	border-radius: 0 3px 0 0;
+}
+
+
+#content code{ margin: 10px 0; padding: 3px 5px 3px 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px;overflow: auto; display:inline-block;}
+
+/* ==========================================================================
+   Helper classes
+   ========================================================================== */
+
+/*
+ * Image replacement
+ */
+
+.ir {
+    background-color: transparent;
+    border: 0;
+    overflow: hidden;
+    /* IE 6/7 fallback */
+    *text-indent: -9999px;
+}
+
+.ir:before {
+    content: "";
+    display: block;
+    width: 0;
+    height: 150%;
+}
+
+/*
+ * Hide from both screenreaders and browsers: h5bp.com/u
+ */
+
+.hidden {
+    display: none !important;
+    visibility: hidden;
+}
+
+/*
+ * Hide only visually, but have it available for screenreaders: h5bp.com/v
+ */
+
+.visuallyhidden {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+}
+
+/*
+ * Extends the .visuallyhidden class to allow the element to be focusable
+ * when navigated to via the keyboard: h5bp.com/p
+ */
+
+.visuallyhidden.focusable:active,
+.visuallyhidden.focusable:focus {
+    clip: auto;
+    height: auto;
+    margin: 0;
+    overflow: visible;
+    position: static;
+    width: auto;
+}
+
+/*
+ * Hide visually and from screenreaders, but maintain layout
+ */
+
+.invisible {
+    visibility: hidden;
+}
+
+/*
+ * Clearfix: contain floats
+ *
+ * For modern browsers
+ * 1. The space content is one way to avoid an Opera bug when the
+ *    `contenteditable` attribute is included anywhere else in the document.
+ *    Otherwise it causes space to appear at the top and bottom of elements
+ *    that receive the `clearfix` class.
+ * 2. The use of `table` rather than `block` is only necessary if using
+ *    `:before` to contain the top-margins of child elements.
+ */
+
+.clearfix:before,
+.clearfix:after {
+    content: " "; /* 1 */
+    display: table; /* 2 */
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+/*
+ * For IE 6/7 only
+ * Include this rule to trigger hasLayout and contain floats.
+ */
+
+.clearfix {
+    *zoom: 1;
+}
+
+/* ==========================================================================
+   EXAMPLE Media Queries for Responsive Design.
+   These examples override the primary ('mobile first') styles.
+   Modify as content requires.
+   ========================================================================== */
+
+
+ #menu-container{
+					height:100%;
+					background-color:#1A1A1A;
+					width:20%;
+					min-width:150px;
+					max-width:200px;
+					float:left;
+					color:#cecece;
+					box-shadow: -2px 0 3px #000000 inset;
+					opacity:0;
+					position:fixed;
+					transition:0.2s linear;
+	}
+	#content-container{
+    	padding-top: 20px;
+    }
+
+@media only screen and (max-width: 35em) {
+    /* Style adjustments for viewports that meet the condition */
+    #content-container{
+    	width:100%;
+    	padding-top: 0px;
+    }
+    #menu-container #logo{
+		display:none;
+	}
+	#menu-container{
+					
+					width:100%;
+					max-width: 100%;
+					margin-top: 0px;
+					min-width: 100%;
+					height: auto;
+					float:none;
+					box-shadow: -2px 0 3px #000000 inset;
+					position:inherit;
+					overflow: hidden;
+					opacity: 1;
+					display:block;
+					visibility:visible;
+	}
+}
+
+@media print,
+       (-o-min-device-pixel-ratio: 5/4),
+       (-webkit-min-device-pixel-ratio: 1.25),
+       (min-resolution: 120dpi) {
+    /* Style adjustments for high resolution devices */
+}
+
+/* ==========================================================================
+   Print styles.
+   Inlined to avoid required HTTP connection: h5bp.com/r
+   ========================================================================== */
+
+@media print {
+    * {
+        background: transparent !important;
+        color: #000 !important; /* Black prints faster: h5bp.com/s */
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+    a,
+    a:visited {
+        text-decoration: underline;
+    }
+
+    a[href]:after {
+        content: " (" attr(href) ")";
+    }
+
+    abbr[title]:after {
+        content: " (" attr(title) ")";
+    }
+
+    /*
+     * Don't show links for images, or javascript/internal links
+     */
+
+    .ir a:after,
+    a[href^="javascript:"]:after,
+    a[href^="#"]:after {
+        content: "";
+    }
+
+    pre,
+    blockquote {
+        border: 1px solid #999;
+        page-break-inside: avoid;
+    }
+
+    thead {
+        display: table-header-group; /* h5bp.com/t */
+    }
+
+    tr,
+    img {
+        page-break-inside: avoid;
+    }
+
+    img {
+        max-width: 100% !important;
+    }
+
+    @page {
+        margin: 0.5cm;
+    }
+
+    p,
+    h2,
+    h3 {
+        orphans: 3;
+        widows: 3;
+    }
+
+    h2,
+    h3 {
+        page-break-after: avoid;
+    }
+}
+
+
+
+
+
+
