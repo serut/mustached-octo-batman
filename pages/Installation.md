@@ -1,8 +1,3 @@
-plume
-=====
-
-Wiki expérimental...
-
 Installation
 ------------
 
@@ -33,9 +28,3 @@ Vous pouvez installer le logiciel sur votre serveur via git (recommencé) ou, si
 2. Décompressez l'archive et envoyez la dans votre répertoire web
 
 3. Réglez les permissions requises par plume (chmod 755 sur tous le répertoire OU chown www-data sur vous avez accès à cette commande)
-
-Configuration
-------------
-
-Pensez à changer le mot de passe administrateur dans la page common.php par mesure de sécurité
-

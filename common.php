@@ -1,4 +1,6 @@
 <?php
+//Mot de passe d'édition
+define('ADMIN_PASSWORD','admin');
 define('APPLICATION_TITLE','Plume');
 define('MD_ROOT','./pages/');
 define('MD_EXTENSION','.md');
@@ -11,7 +13,7 @@ define('UPLOAD_FOLDER','file/');
 define('CACHE_RSS','feeds.rss');
 define('REFRESH_RSS_TIME',30);
 define('EVENT_FILE','events.json');
-define('ADMIN_PASSWORD','admin');
+
 
 //Démarrage session
 session_start();
