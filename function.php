@@ -13,4 +13,6 @@ function event($title,$content,$page){
 	array_unshift($events,$event);
 	file_put_contents(EVENT_FILE, json_encode($events));
 }
+
+
 ?>

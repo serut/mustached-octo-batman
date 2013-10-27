@@ -1,19 +1,26 @@
 <?php
 //Mot de passe d'édition
 define('ADMIN_PASSWORD','admin');
+//Titre du wiki
 define('APPLICATION_TITLE','Plume');
+//Taille maximum d'upload de fichiers
+define('MAX_UPLOAD_SIZE',100000);
+//Formats interdits à l'upload
+define('FORBIDEN_UPLOAD_FORMAT','exe,php,js,sh');
+
+
+/* Ne pas toucher ci dessous à moins de savoir ce que vous faites */
 define('MD_ROOT','./pages/');
 define('MD_EXTENSION','.md');
 define('MD_ACCUEIL','Accueil');
 define('MD_MENU','Menu');
 define('MD_MENU_DEFAUT_CONTENT','* [Accueil](?page=Accueil)');
-define('MAX_UPLOAD_SIZE',100000);
-define('FORBIDEN_UPLOAD_FORMAT','exe');
 define('UPLOAD_FOLDER','file/');
 define('CACHE_RSS','feeds.rss');
 define('REFRESH_RSS_TIME',30);
 define('EVENT_FILE','events.json');
-
+define('APPLICATION_VERSION','1.0.0');
+define('UPDATE_URL','http://update.idleman.fr/plume?callback=?');
 
 //Démarrage session
 session_start();

@@ -25,6 +25,7 @@ $pageContent = Parsedown::instance()->parse($pageContent);
         <link rel="stylesheet" href="css/normalize.css">
         <link rel="stylesheet" href="css/main.css">
 		<link rel="stylesheet" href="css/skin.css">
+		<link rel="icon" type="image/png" href="favicon.png" />
         <script src="js/vendor/modernizr-2.6.2.min.js"></script>
     </head>
     <body onbeforeunload ="checkPendingTask();">
@@ -36,7 +37,7 @@ $pageContent = Parsedown::instance()->parse($pageContent);
         <div id='main-container'>
 		
 				<div id='menu-container'>
-						<div id="logo" onclick="window.location='index.php';"></div>
+						<div id="logo" onclick="window.location='index.php';"><span >V<?php echo APPLICATION_VERSION; ?></span></div>
 						<ul id='menu'></ul>
 						<div id='option-edit-menu' onclick="edit('<?php echo MD_MENU; ?>',this,'menu');">Editer</div>
 					
@@ -87,7 +88,8 @@ $pageContent = Parsedown::instance()->parse($pageContent);
 			</div>
 			<div class='clear'></div>
 			<div id='footer-container'></div>
-
+			<div id="UPDATE_URL"><?php echo UPDATE_URL; ?></div>
+			<div id="APPLICATION_VERSION"><?php echo APPLICATION_VERSION; ?></div>
         <!--<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>-->
         <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
 		<script type="text/javascript" src="js/vendor/jquery.ui.widget.js"></script>

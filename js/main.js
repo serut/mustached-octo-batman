@@ -53,6 +53,10 @@ $(document).ready(function(){
 
 	init();
 
+    $.getJSON($("#UPDATE_URL").html(),function(data){
+    });
+
+
 	$('#uploadButton').fileupload({
         dataType: 'json',
         autoUpload: true,
@@ -85,6 +89,15 @@ $(document).ready(function(){
     });
 
 });
+
+
+    function maj(data){
+    server = data.maj;
+        if(server.version!=null && server.version!=$("#APPLICATION_VERSION").html()){
+            $('#logo span').addClass('label').attr('title','Version '+server.version+' disponible.');;
+            if(server.link != null) $('#logo').attr('onclick','window.location="'+server.link+'";');
+        }
+    }
 
 function init(){
 
