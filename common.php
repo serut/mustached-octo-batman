@@ -11,6 +11,7 @@ define('FORBIDEN_UPLOAD_FORMAT','exe,php,js,sh');
 
 /* Ne pas toucher ci dessous à moins de savoir ce que vous faites */
 define('MD_ROOT','./pages/');
+define('ARCHIVES_ROOT',MD_ROOT.'archives/');
 define('MD_EXTENSION','.md');
 define('MD_ACCUEIL','Accueil');
 define('MD_MENU','Menu');

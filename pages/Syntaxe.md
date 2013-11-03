@@ -13,11 +13,25 @@
 
 <http://example.com>
 
-![id](file//idleblog logo.png)
+![id](file//2013/10/idleblog logo.png)
 
-    <?php 
-    echo "hello world";
-    ?>
+Code php
+	// php //
+	$test = 'coucou';
+
+Code javascript
+	// js //
+	var test = 'coucou';
+
+Code sql
+	-- sql --
+	Insert into 'table' (id,pseudo,name) values (1,'idleman','valentin');
+
+Code css
+	/* css */
+	html{
+	width:50%;
+	}
 
 [Google]: http://google.com/
 [Google][]

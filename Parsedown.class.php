@@ -414,14 +414,11 @@ class Parsedown
 					break;
 				
 				case 'code':
-					
 					$text = rtrim($element['text'], "\n");
-					
 					$text = htmlentities($text, ENT_NOQUOTES);
-					
 					strpos($text, "\x1A\\") !== FALSE and $text = strtr($text, $this->escape_sequence_map);
-					
-					$markup .= '<pre><code data-lllanguage="js">'.$text.'</code></pre>'."\n";
+					$lang = get_highlight_langage($text);
+					$markup .= '<pre><code data-lllanguage="'.$lang.'">'.$text.'</code></pre>'."\n";
 					
 					break;
 				
@@ -598,3 +595,35 @@ class Parsedown
 	}
 }
 
+function get_highlight_langage($text){
+	
+	$lang = "generic";
+	if(contain($text , array('insert','select','update','delete')))	    $lang = "sql";
+	if(contain($text , array('html{','body{','a{','width:','color:#'))) $lang = "css";
+
+	if(contain($text , '&lt;html'))                                	    $lang = "html";
+	if(contain($text , '&lt;?php') || contain($text , '&lt;?'))    	    $lang = "php";
+	if(contain($text , array('&lt;?php','&lt;html'))) 			   	    $lang = "htmlphp";
+
+	if(contain($text , '// js //'))                                	$lang = "js";
+	if(contain($text , '// php //'))                                	$lang = "php";
+	if(contain($text , '<!-- html -->'))                                	$lang = "html";
+	if(contain($text , '/* css */'))                                	$lang = "css";
+	if(contain($text , '-- sql --'))                                	$lang = "sql";
+
+	return $lang;
+}
+
+function contain($text,$key){
+	if(is_array($key)){
+		$result = true;
+		foreach($key as $k){
+			if(!strrpos($text , $k)){
+				$result = false;
+			}
+		}
+		return $result;
+	}else{
+		return strrpos($text , $key)!==false?true:false;
+	}
+}
