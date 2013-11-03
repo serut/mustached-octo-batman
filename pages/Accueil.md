@@ -1,7 +1,10 @@
 Bienvenue
 ===
 ---
-test et autres
+
+	// php //
+	$hey = "Hello wiki! :D";
+
 Bienvenue sur ***Plume***, un wiki kiss utilisant les technologies : 
 - Ajax
 - JSON
@@ -17,3 +20,4 @@ Ce script est proposé en licence [CC by nc sa](http://creativecommons.org/licen
 > 1.   Ce wiki te fout un coup de pied dans la gueule - Chuck Norris
 > 2.   Une non révolution approximativement potable - Lara croft
 > 3.   Télécharger ce wiki contribue à la sauvegarde du thon rouge - Ted Mosby
+
