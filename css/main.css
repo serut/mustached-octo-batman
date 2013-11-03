@@ -1,4 +1,4 @@
-/* ==========================================================================
+menu/* ==========================================================================
    Base styles: opinionated defaults
    ========================================================================== */
 html,
@@ -231,35 +231,33 @@ html,body{
 					color:#cecece;
 					width:90%;
 					border:none;
+					height:100px;
 				}
-				#menu li{
+				#menu a{
 					font-size: 14px;
 					cursor:pointer;
 					background: url('../img/icon-menu-item.png') no-repeat 10px center;
 					padding-left: 20px;
 					border-bottom: 1px solid transparent;
 					padding: 3px 3px 3px 20px;
+					display: block;
     			 	-webkit-transition: background-color 100ms linear;
 				     -moz-transition: background-color 100ms linear;
 				     -o-transition: background-color 100ms linear;
 				     -ms-transition: background-color 100ms linear;
 				     transition: background-color 100ms linear;
+				     color:#cecece;
+					text-decoration: none;
 				}
-				#menu li:hover{
+				#menu a:hover{
 					color:#ffffff;
 					border-radius: 3px;
 					background-color: #363636;
     				border-bottom: 1px solid #474747;
+    				color:#ffffff;
 				}
 
-				#menu li a{
-					color:#cecece;
-					text-decoration: none;
-				}
 
-				#menu li:hover a{
-					color:#ffffff;
-				}
 
 				
 

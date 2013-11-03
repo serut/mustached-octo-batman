@@ -3,28 +3,27 @@ var addedFiles = Array();
 
  
 myMarkdownSettings = {
-    nameSpace:          'markdown', // Useful to prevent multi-instances CSS conflict
-    /*previewParserPath:  '~/sets/markdown/preview.php',*/
+    nameSpace:          'markdown',
     onShiftEnter:       {keepDefault:false, openWith:'\n\n'},
     markupSet: [
-        {name:'First Level Heading', key:"1", placeHolder:'Your title here...', closeWith:function(markItUp) { return miu.markdownTitle(markItUp, '=') } },
-        {name:'Second Level Heading', key:"2", placeHolder:'Your title here...', closeWith:function(markItUp) { return miu.markdownTitle(markItUp, '-') } },
-        {name:'Heading 3', key:"3", openWith:'### ', placeHolder:'Your title here...' },
-        {name:'Heading 4', key:"4", openWith:'#### ', placeHolder:'Your title here...' },
-        {name:'Heading 5', key:"5", openWith:'##### ', placeHolder:'Your title here...' },
-        {name:'Heading 6', key:"6", openWith:'###### ', placeHolder:'Your title here...' },
+        {name:'Titre 1', key:"1", placeHolder:'Votre titre ici...', closeWith:function(markItUp) { return miu.markdownTitle(markItUp, '=') } },
+        {name:'Titre 2', key:"2", placeHolder:'Votre titre ici...', closeWith:function(markItUp) { return miu.markdownTitle(markItUp, '-') } },
+        {name:'Titre 3', key:"3", openWith:'### ', placeHolder:'Votre titre ici...' },
+        {name:'Titre 4', key:"4", openWith:'#### ', placeHolder:'Votre titre ici...' },
+        {name:'Titre 5', key:"5", openWith:'##### ', placeHolder:'Votre titre ici...' },
+        {name:'Titre 6', key:"6", openWith:'###### ', placeHolder:'Votre titre ici...' },
         {separator:'---------------' },        
-        {name:'Bold', key:"B", openWith:'**', closeWith:'**'},
-        {name:'Italic', key:"I", openWith:'_', closeWith:'_'},
+        {name:'Gras', key:"G", openWith:'**', closeWith:'**'},
+        {name:'Italique', key:"I", openWith:'_', closeWith:'_'},
         {separator:'---------------' },
-        {name:'Bulleted List', openWith:'- ' },
-        {name:'Numeric List', openWith:function(markItUp) {
+        {name:'Liste à bulles', openWith:'- ' },
+        {name:'Liste numérique', openWith:function(markItUp) {
             return markItUp.line+'. ';
         }},
-        {name:'Picture', key:"P", replaceWith:'![[![Alternative text]!]]([![Url:!:http://]!] "[![Title]!]")'},
-        {name:'Link', key:"L", openWith:'[', closeWith:']([![Url:!:http://]!] "[![Title]!]")', placeHolder:'Your text to link here...' },  
-        {name:'Quotes', openWith:'> '},
-        {name:'Code Block / Code', openWith:'(!(\t|!|`)!)', closeWith:'(!(`)!)'},
+        {name:'Image', key:"P", replaceWith:'![[![Alternative text]!]]([![Url:!:http://]!] "[![Title]!]")'},
+        {name:'Lien', key:"L", openWith:'[', closeWith:']([![Url:!:http://]!] "[![Title]!]")', placeHolder:'Your text to link here...' },  
+        {name:'Citation', openWith:'> '},
+        {name:'Code', openWith:'(!(\t|!|`)!)', closeWith:'(!(`)!)'},
     ]
 }
 
@@ -132,7 +131,10 @@ function init(){
     });
     $('code').litelighter({});
     $('code').litelighter('destroy');
-    $('code').litelighter({style:'dark'});
+    $('code').litelighter({style:'monokai'});
+
+
+
 }
 
 function appendText(text){
@@ -242,6 +244,12 @@ function edit(page,elem,target){
                 $(elem).attr('onclick','save(\''+page+'\',this,\''+target+'\');').html("Enregistrer");
     			if(target!='menu') $('#'+target).markItUp(myMarkdownSettings);
                 $('#drop-container,#file-list,#search-zone').fadeIn(300);
+                $('#content').keydown(function(event){
+                if(event.keyCode == 9){
+                    insertAtCaret('content','\t');
+                    return false;
+                }
+                });
             }else{
                 message(result.message);
             }
@@ -285,4 +293,38 @@ function array2json(arr) {
     
     if(is_list) return '[' + json + ']';//Return numerical JSON
     return '{' + json + '}';//Return associative JSON
+}
+
+function insertAtCaret(areaId,text) {
+    var txtarea = document.getElementById(areaId);
+    var scrollPos = txtarea.scrollTop;
+    var strPos = 0;
+    var br = ((txtarea.selectionStart || txtarea.selectionStart == '0') ? 
+        "ff" : (document.selection ? "ie" : false ) );
+    if (br == "ie") { 
+        txtarea.focus();
+        var range = document.selection.createRange();
+        range.moveStart ('character', -txtarea.value.length);
+        strPos = range.text.length;
+    }
+    else if (br == "ff") strPos = txtarea.selectionStart;
+
+    var front = (txtarea.value).substring(0,strPos);  
+    var back = (txtarea.value).substring(strPos,txtarea.value.length); 
+    txtarea.value=front+text+back;
+    strPos = strPos + text.length;
+    if (br == "ie") { 
+        txtarea.focus();
+        var range = document.selection.createRange();
+        range.moveStart ('character', -txtarea.value.length);
+        range.moveStart ('character', strPos);
+        range.moveEnd ('character', 0);
+        range.select();
+    }
+    else if (br == "ff") {
+        txtarea.selectionStart = strPos;
+        txtarea.selectionEnd = strPos;
+        txtarea.focus();
+    }
+    txtarea.scrollTop = scrollPos;
 }

@@ -22,8 +22,12 @@ switch($action){
 
 	case 'save':
 		if($myUser!=false){
+
 			event('Modification '.$pagePath,$myUser->login.' a modifié le fichier '.$page.' le '. date('d/m/Y H:i:s'),$page);
 			file_put_contents($pagePath, html_entity_decode($_['content'],ENT_QUOTES,'UTF-8'));
+			if(!file_exists(ARCHIVES_ROOT)) mkdir(ARCHIVES_ROOT);
+			if(!file_exists(ARCHIVES_ROOT.$page)) mkdir(ARCHIVES_ROOT.$page);
+			copy($pagePath,ARCHIVES_ROOT.$page.'/'.date('d-m-Y'));
 			$content = Parsedown::instance()->parse(html_entity_decode($_['content'],ENT_QUOTES,'UTF-8'));
 			$jsonResponse['success'] = true;
 			$jsonResponse['content'] = $content;

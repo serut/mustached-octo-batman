@@ -40,7 +40,6 @@ $pageContent = Parsedown::instance()->parse($pageContent);
 						<div id="logo" onclick="window.location='index.php';"><span >V<?php echo APPLICATION_VERSION; ?></span></div>
 						<ul id='menu'></ul>
 						<div id='option-edit-menu' onclick="edit('<?php echo MD_MENU; ?>',this,'menu');">Editer</div>
-					
 					<div id='media-container'>
 						<div id='search-zone'>
 							<img src="img/icon-search.png" align="absmiddle"> <input type="text" placeholder="keyword" id="search-input">
@@ -88,8 +87,8 @@ $pageContent = Parsedown::instance()->parse($pageContent);
 			</div>
 			<div class='clear'></div>
 			<div id='footer-container'></div>
-			<div id="UPDATE_URL"><?php echo UPDATE_URL; ?></div>
-			<div id="APPLICATION_VERSION"><?php echo APPLICATION_VERSION; ?></div>
+			<div id="UPDATE_URL" class="hidden"><?php echo UPDATE_URL; ?></div>
+			<div id="APPLICATION_VERSION" class="hidden"><?php echo APPLICATION_VERSION; ?></div>
         <!--<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>-->
         <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
 		<script type="text/javascript" src="js/vendor/jquery.ui.widget.js"></script>

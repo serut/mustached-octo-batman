@@ -143,6 +143,14 @@
 			number: 'color:#CF6745;',
 			keyword: 'color:#6F87A8;',
 			operators: 'color:#fee79e;'
+		},
+		monokai: {
+			code: 'background-color:#272822;color:#ffffff;',
+			comment: 'color:#9E9E9E',
+			string: 'color:#e6db74',
+			number: 'color:#CF6745;',
+			keyword: 'color:#66d9ef;',
+			operators: 'color:#f92659;'
 		}
 	};
 	$.litelighter.languages = {

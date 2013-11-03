@@ -1,8 +1,7 @@
 Bienvenue
 ===
- 
 ---
-
+test et autres
 Bienvenue sur ***Plume***, un wiki kiss utilisant les technologies : 
 - Ajax
 - JSON
