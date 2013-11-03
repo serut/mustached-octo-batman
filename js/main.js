@@ -138,8 +138,9 @@ function init(){
 }
 
 function appendText(text){
-    var oldText = $('#content').val();
-    $('#content').val(oldText + text);
+  /*  var oldText = $('#content').val();
+    $('#content').val(oldText + text);*/
+    insertAtCaret('content',text);
 }
 
 function login(){
@@ -185,12 +186,12 @@ function loadFiles(keyword){
 }
 
 function addImage(filePath){
-     console.log('image added');
-     $('#content').html($('#content').html()+'![id]('+filePath+')');
+    insertAtCaret('content','![id]('+filePath+')');
+    // $('#content').html($('#content').html()+'![id]('+filePath+')');
 }
 function addFile(filePath){
-     console.log('image added');
-     $('#content').html($('#content').html()+'['+filePath+']('+filePath+')');
+    insertAtCaret('content','['+filePath+']('+filePath+')');
+     //$('#content').html($('#content').html()+'['+filePath+']('+filePath+')');
 }
 
 function save(page,elem,target){
