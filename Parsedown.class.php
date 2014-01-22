@@ -499,8 +499,10 @@ class Parsedown
 				else 
 				{
 					$element_text = $this->parse_inline_elements($matches[3]);
+
+					$element_url = (strpos($matches[4], '"')!==false ? preg_replace('/("(.*)")/', '" title="$2', $matches[4]) : $matches[4] );
 					
-					$element = '<a href="'.$matches[4].'">'.$element_text.'</a>';
+					$element = '<a href="'.$element_url.'">'.$element_text.'</a>';
 				}
 				
 				$element_text = $this->parse_inline_elements($matches[1]);
