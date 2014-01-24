@@ -24,8 +24,26 @@ switch($action){
 		if($myUser!=false){
 
 			event('Modification '.$pagePath,$myUser->login.' a modifié le fichier '.$page.' le '. date('d/m/Y H:i:s'),$page);
+			if(!is_dir(ARCHIVES_ROOT) ) mkdir(ARCHIVES_ROOT);
+			$folders = explode('/',$pagePath);
+			$p = array_pop($folders);
+			$path = MD_ROOT;
+			$archives = ARCHIVES_ROOT;
+			foreach ($folders as $key => $dir) {
+					if($key == 1) {
+						$path = $dir;
+					} elseif($key != 0) {
+						$path .= '/'.$dir;
+						$archives .= '/'.$dir;
+					}
+				if (!is_dir($path)) {
+					mkdir($path);
+				}
+				if (!is_dir($archives)) {
+					mkdir($archives);
+				}
+			}
 			file_put_contents($pagePath, html_entity_decode($_['content'],ENT_QUOTES,'UTF-8'));
-			if(!file_exists(ARCHIVES_ROOT)) mkdir(ARCHIVES_ROOT);
 			if(!file_exists(ARCHIVES_ROOT.$page)) mkdir(ARCHIVES_ROOT.$page);
 			copy($pagePath,ARCHIVES_ROOT.$page.'/'.date('d-m-Y'));
 			$content = Parsedown::instance()->parse(html_entity_decode($_['content'],ENT_QUOTES,'UTF-8'));

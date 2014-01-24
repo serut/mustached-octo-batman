@@ -8,7 +8,7 @@ function event($title,$content,$page){
 	$event = (object) array();
 	$event->title = $title;
 	$event->date = date('d/m/Y H:i:s');
-	$event->link = $_SERVER['HTTP_REFERER'].$page;
+	$event->link = (isset($_SERVER['HTTP_REFERER']) ? $_SERVER['HTTP_REFERER'] : "").$page;
 	$event->content =$content;
 	array_unshift($events,$event);
 	file_put_contents(EVENT_FILE, json_encode($events));
