@@ -1,6 +1,6 @@
 <?php
 //Mot de passe d'édition
-define('ADMIN_PASSWORD','admin');
+define('ADMIN_PASSWORD','unreal09');
 //Titre du wiki
 define('APPLICATION_TITLE','Plume');
 //Taille maximum d'upload de fichiers
