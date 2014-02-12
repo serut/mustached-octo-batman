@@ -100,7 +100,7 @@ $(document).ready(function(){
 
 function init(){
 
-    var zenMode = true;
+    var zenMode = false;
     $(window).resize(function(){
         zenMode = $(window).width()<=540;
     });
