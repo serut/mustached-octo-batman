@@ -1,8 +1,8 @@
-Jeux :
-======
+# Jeux :
+
 ---
 
-Liste des jeux :
+###### Liste des jeux :
 - [Call of Duty 2](http://192.168.1.252/jeux/Call_of_Duty_2_V5.1.rar)
 - [Call of Duty 4](http://192.168.1.252/jeux/Call_of_Duty_4_V5.1.rar)
 - [Day of Defeat Source](http://192.168.1.252/jeux/DoDS_V5.2.rar)
