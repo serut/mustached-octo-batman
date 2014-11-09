@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+		<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+		<channel>
+					<title>Plume</title>
+					<atom:link href="192.168.1.15" rel="self" type="application/rss+xml"/>
+					<link>192.168.1.15</link>
+					<description>Aggrégation des flux</description>
+					<language>fr-fr</language>
+					<copyright>DWTFYW</copyright>
+					<pubDate>Sat, 01 Nov 2014 15:17:07 +0100</pubDate>
+					<lastBuildDate>Sat, 01 Nov 2014 15:17:07 +0100</lastBuildDate>
+					<sy:updatePeriod>hourly</sy:updatePeriod>
+					<sy:updateFrequency>1</sy:updateFrequency>
+					<generator>Plume</generator><item>
+						<title><![CDATA[Modification ./pages/Jeux.md]]></title>
+						<link>http://192.168.1.252/plume/?page=JeuxJeux</link>
+						<pubDate>Wed, 07 May 2014 15:54:31 +0200</pubDate>
+						<guid isPermaLink="true">http://192.168.1.252/plume/?page=JeuxJeux</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier Jeux le 05/07/2014 15:54:31<br><a href="http://192.168.1.252/plume/?page=JeuxJeux">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier Jeux le 05/07/2014 15:54:31]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/Jeux.md]]></title>
+						<link>http://wiki/?page=JeuxJeux</link>
+						<pubDate>Wed, 07 May 2014 12:25:39 +0200</pubDate>
+						<guid isPermaLink="true">http://wiki/?page=JeuxJeux</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier Jeux le 05/07/2014 12:25:39<br><a href="http://wiki/?page=JeuxJeux">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier Jeux le 05/07/2014 12:25:39]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/Jeux.md]]></title>
+						<link>http://wiki/?page=JeuxJeux</link>
+						<pubDate>Wed, 07 May 2014 12:25:26 +0200</pubDate>
+						<guid isPermaLink="true">http://wiki/?page=JeuxJeux</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier Jeux le 05/07/2014 12:25:26<br><a href="http://wiki/?page=JeuxJeux">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier Jeux le 05/07/2014 12:25:26]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/Accueil.md]]></title>
+						<link>http://wiki/?page=AccueilAccueil</link>
+						<pubDate>Sat, 05 Apr 2014 10:43:03 +0200</pubDate>
+						<guid isPermaLink="true">http://wiki/?page=AccueilAccueil</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier Accueil le 04/05/2014 10:43:03<br><a href="http://wiki/?page=AccueilAccueil">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier Accueil le 04/05/2014 10:43:03]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/Accueil.md]]></title>
+						<link>http://wiki/?page=AccueilAccueil</link>
+						<pubDate>Sat, 05 Apr 2014 10:42:42 +0200</pubDate>
+						<guid isPermaLink="true">http://wiki/?page=AccueilAccueil</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier Accueil le 04/05/2014 10:42:42<br><a href="http://wiki/?page=AccueilAccueil">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier Accueil le 04/05/2014 10:42:42]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/Accueil.md]]></title>
+						<link>http://wiki/Accueil</link>
+						<pubDate>Sat, 05 Apr 2014 00:45:03 +0200</pubDate>
+						<guid isPermaLink="true">http://wiki/Accueil</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier Accueil le 04/05/2014 00:45:03<br><a href="http://wiki/Accueil">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier Accueil le 04/05/2014 00:45:03]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/Accueil.md]]></title>
+						<link>http://wiki/?page=AccueilAccueil</link>
+						<pubDate>Wed, 05 Mar 2014 23:36:38 +0100</pubDate>
+						<guid isPermaLink="true">http://wiki/?page=AccueilAccueil</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier Accueil le 03/05/2014 23:36:38<br><a href="http://wiki/?page=AccueilAccueil">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier Accueil le 03/05/2014 23:36:38]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/Accueil.md]]></title>
+						<link>http://wiki/?page=AccueilAccueil</link>
+						<pubDate>Wed, 05 Mar 2014 23:36:07 +0100</pubDate>
+						<guid isPermaLink="true">http://wiki/?page=AccueilAccueil</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier Accueil le 03/05/2014 23:36:07<br><a href="http://wiki/?page=AccueilAccueil">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier Accueil le 03/05/2014 23:36:07]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/Jeux.md]]></title>
+						<link>http://wiki/?page=JeuxJeux</link>
+						<pubDate>Wed, 05 Mar 2014 20:18:29 +0100</pubDate>
+						<guid isPermaLink="true">http://wiki/?page=JeuxJeux</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier Jeux le 03/05/2014 20:18:29<br><a href="http://wiki/?page=JeuxJeux">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier Jeux le 03/05/2014 20:18:29]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/Jeux.md]]></title>
+						<link>http://wiki/?page=JeuxJeux</link>
+						<pubDate>Wed, 05 Mar 2014 20:18:11 +0100</pubDate>
+						<guid isPermaLink="true">http://wiki/?page=JeuxJeux</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier Jeux le 03/05/2014 20:18:11<br><a href="http://wiki/?page=JeuxJeux">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier Jeux le 03/05/2014 20:18:11]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/Jeux.md]]></title>
+						<link>http://wiki/?page=JeuxJeux</link>
+						<pubDate>Wed, 05 Mar 2014 20:17:45 +0100</pubDate>
+						<guid isPermaLink="true">http://wiki/?page=JeuxJeux</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier Jeux le 03/05/2014 20:17:45<br><a href="http://wiki/?page=JeuxJeux">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier Jeux le 03/05/2014 20:17:45]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/Jeux.md]]></title>
+						<link>http://wiki/?page=JeuxJeux</link>
+						<pubDate>Wed, 05 Mar 2014 20:16:15 +0100</pubDate>
+						<guid isPermaLink="true">http://wiki/?page=JeuxJeux</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier Jeux le 03/05/2014 20:16:15<br><a href="http://wiki/?page=JeuxJeux">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier Jeux le 03/05/2014 20:16:15]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/Jeux.md]]></title>
+						<link>http://wiki/?page=JeuxJeux</link>
+						<pubDate>Wed, 05 Mar 2014 20:15:55 +0100</pubDate>
+						<guid isPermaLink="true">http://wiki/?page=JeuxJeux</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier Jeux le 03/05/2014 20:15:55<br><a href="http://wiki/?page=JeuxJeux">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier Jeux le 03/05/2014 20:15:55]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/Jeux.md]]></title>
+						<link>http://wiki/?page=JeuxJeux</link>
+						<pubDate>Wed, 05 Mar 2014 20:12:47 +0100</pubDate>
+						<guid isPermaLink="true">http://wiki/?page=JeuxJeux</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier Jeux le 03/05/2014 20:12:47<br><a href="http://wiki/?page=JeuxJeux">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier Jeux le 03/05/2014 20:12:47]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/Jeux.md]]></title>
+						<link>http://wiki/?page=JeuxJeux</link>
+						<pubDate>Wed, 05 Mar 2014 20:06:59 +0100</pubDate>
+						<guid isPermaLink="true">http://wiki/?page=JeuxJeux</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier Jeux le 03/05/2014 20:06:59<br><a href="http://wiki/?page=JeuxJeux">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier Jeux le 03/05/2014 20:06:59]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/Jeux.md]]></title>
+						<link>http://wiki/?page=JeuxJeux</link>
+						<pubDate>Wed, 05 Mar 2014 20:03:14 +0100</pubDate>
+						<guid isPermaLink="true">http://wiki/?page=JeuxJeux</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier Jeux le 03/05/2014 20:03:14<br><a href="http://wiki/?page=JeuxJeux">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier Jeux le 03/05/2014 20:03:14]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/Jeux.md]]></title>
+						<link>http://wiki/?page=JeuxJeux</link>
+						<pubDate>Wed, 05 Mar 2014 18:52:54 +0100</pubDate>
+						<guid isPermaLink="true">http://wiki/?page=JeuxJeux</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier Jeux le 03/05/2014 18:52:54<br><a href="http://wiki/?page=JeuxJeux">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier Jeux le 03/05/2014 18:52:54]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/tuto/ut3.md]]></title>
+						<link>http://wiki/?page=tuto/ut3tuto/ut3</link>
+						<pubDate>Wed, 05 Mar 2014 17:21:56 +0100</pubDate>
+						<guid isPermaLink="true">http://wiki/?page=tuto/ut3tuto/ut3</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier tuto/ut3 le 03/05/2014 17:21:56<br><a href="http://wiki/?page=tuto/ut3tuto/ut3">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier tuto/ut3 le 03/05/2014 17:21:56]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/tuto/cod4.md]]></title>
+						<link>http://wiki/?page=tuto/cod4tuto/cod4</link>
+						<pubDate>Wed, 05 Mar 2014 17:17:51 +0100</pubDate>
+						<guid isPermaLink="true">http://wiki/?page=tuto/cod4tuto/cod4</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier tuto/cod4 le 03/05/2014 17:17:51<br><a href="http://wiki/?page=tuto/cod4tuto/cod4">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier tuto/cod4 le 03/05/2014 17:17:51]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/tuto/ut3.md]]></title>
+						<link>http://wiki/?page=tuto/ut3tuto/ut3</link>
+						<pubDate>Wed, 05 Mar 2014 17:17:46 +0100</pubDate>
+						<guid isPermaLink="true">http://wiki/?page=tuto/ut3tuto/ut3</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier tuto/ut3 le 03/05/2014 17:17:46<br><a href="http://wiki/?page=tuto/ut3tuto/ut3">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier tuto/ut3 le 03/05/2014 17:17:46]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/tuto/ut3.md]]></title>
+						<link>http://wiki/?page=tuto/ut3tuto/ut3</link>
+						<pubDate>Wed, 05 Mar 2014 17:09:34 +0100</pubDate>
+						<guid isPermaLink="true">http://wiki/?page=tuto/ut3tuto/ut3</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier tuto/ut3 le 03/05/2014 17:09:34<br><a href="http://wiki/?page=tuto/ut3tuto/ut3">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier tuto/ut3 le 03/05/2014 17:09:34]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/Jeux.md]]></title>
+						<link>http://wiki/?page=JeuxJeux</link>
+						<pubDate>Wed, 05 Mar 2014 17:09:22 +0100</pubDate>
+						<guid isPermaLink="true">http://wiki/?page=JeuxJeux</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier Jeux le 03/05/2014 17:09:22<br><a href="http://wiki/?page=JeuxJeux">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier Jeux le 03/05/2014 17:09:22]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/Jeux.md]]></title>
+						<link>http://wiki/?page=JeuxJeux</link>
+						<pubDate>Wed, 05 Mar 2014 15:36:18 +0100</pubDate>
+						<guid isPermaLink="true">http://wiki/?page=JeuxJeux</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier Jeux le 03/05/2014 15:36:18<br><a href="http://wiki/?page=JeuxJeux">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier Jeux le 03/05/2014 15:36:18]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/Jeux.md]]></title>
+						<link>http://wiki/?page=JeuxJeux</link>
+						<pubDate>Wed, 05 Mar 2014 15:35:58 +0100</pubDate>
+						<guid isPermaLink="true">http://wiki/?page=JeuxJeux</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier Jeux le 03/05/2014 15:35:58<br><a href="http://wiki/?page=JeuxJeux">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier Jeux le 03/05/2014 15:35:58]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/Jeux.md]]></title>
+						<link>http://wiki/?page=JeuxJeux</link>
+						<pubDate>Wed, 05 Mar 2014 15:31:30 +0100</pubDate>
+						<guid isPermaLink="true">http://wiki/?page=JeuxJeux</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier Jeux le 03/05/2014 15:31:30<br><a href="http://wiki/?page=JeuxJeux">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier Jeux le 03/05/2014 15:31:30]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/Jeux.md]]></title>
+						<link>http://wiki/?page=JeuxJeux</link>
+						<pubDate>Wed, 05 Mar 2014 15:30:09 +0100</pubDate>
+						<guid isPermaLink="true">http://wiki/?page=JeuxJeux</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier Jeux le 03/05/2014 15:30:09<br><a href="http://wiki/?page=JeuxJeux">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier Jeux le 03/05/2014 15:30:09]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/Jeux.md]]></title>
+						<link>http://wiki/?page=JeuxJeux</link>
+						<pubDate>Wed, 05 Mar 2014 15:22:05 +0100</pubDate>
+						<guid isPermaLink="true">http://wiki/?page=JeuxJeux</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier Jeux le 03/05/2014 15:22:05<br><a href="http://wiki/?page=JeuxJeux">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier Jeux le 03/05/2014 15:22:05]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/Jeux.md]]></title>
+						<link>http://wiki/?page=JeuxJeux</link>
+						<pubDate>Mon, 03 Feb 2014 03:29:36 +0100</pubDate>
+						<guid isPermaLink="true">http://wiki/?page=JeuxJeux</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier Jeux le 02/03/2014 03:29:36<br><a href="http://wiki/?page=JeuxJeux">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier Jeux le 02/03/2014 03:29:36]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/Jeux.md]]></title>
+						<link>http://wiki/?page=JeuxJeux</link>
+						<pubDate>Mon, 03 Feb 2014 03:29:26 +0100</pubDate>
+						<guid isPermaLink="true">http://wiki/?page=JeuxJeux</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier Jeux le 02/03/2014 03:29:26<br><a href="http://wiki/?page=JeuxJeux">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier Jeux le 02/03/2014 03:29:26]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/Logiciels.md]]></title>
+						<link>http://wiki/?page=LogicielsLogiciels</link>
+						<pubDate>Mon, 03 Feb 2014 00:43:28 +0100</pubDate>
+						<guid isPermaLink="true">http://wiki/?page=LogicielsLogiciels</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier Logiciels le 02/03/2014 00:43:28<br><a href="http://wiki/?page=LogicielsLogiciels">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier Logiciels le 02/03/2014 00:43:28]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/Accueil.md]]></title>
+						<link>http://wiki/?page=AccueilAccueil</link>
+						<pubDate>Mon, 03 Feb 2014 00:43:04 +0100</pubDate>
+						<guid isPermaLink="true">http://wiki/?page=AccueilAccueil</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier Accueil le 02/03/2014 00:43:04<br><a href="http://wiki/?page=AccueilAccueil">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier Accueil le 02/03/2014 00:43:04]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/Jeux.md]]></title>
+						<link>http://wiki/index.php?page=JeuxJeux</link>
+						<pubDate>Fri, 03 Jan 2014 21:04:54 +0100</pubDate>
+						<guid isPermaLink="true">http://wiki/index.php?page=JeuxJeux</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier Jeux le 01/03/2014 21:04:54<br><a href="http://wiki/index.php?page=JeuxJeux">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier Jeux le 01/03/2014 21:04:54]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/Jeux.md]]></title>
+						<link>http://wiki/index.php?page=JeuxJeux</link>
+						<pubDate>Fri, 03 Jan 2014 21:04:26 +0100</pubDate>
+						<guid isPermaLink="true">http://wiki/index.php?page=JeuxJeux</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier Jeux le 01/03/2014 21:04:26<br><a href="http://wiki/index.php?page=JeuxJeux">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier Jeux le 01/03/2014 21:04:26]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/Jeux.md]]></title>
+						<link>http://wiki/index.php?page=JeuxJeux</link>
+						<pubDate>Fri, 03 Jan 2014 21:02:15 +0100</pubDate>
+						<guid isPermaLink="true">http://wiki/index.php?page=JeuxJeux</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier Jeux le 01/03/2014 21:02:15<br><a href="http://wiki/index.php?page=JeuxJeux">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier Jeux le 01/03/2014 21:02:15]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/Jeux.md]]></title>
+						<link>http://wiki/?page=JeuxJeux</link>
+						<pubDate>Fri, 03 Jan 2014 17:15:19 +0100</pubDate>
+						<guid isPermaLink="true">http://wiki/?page=JeuxJeux</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier Jeux le 01/03/2014 17:15:19<br><a href="http://wiki/?page=JeuxJeux">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier Jeux le 01/03/2014 17:15:19]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/Jeux.md]]></title>
+						<link>http://wiki/?page=JeuxJeux</link>
+						<pubDate>Fri, 03 Jan 2014 17:15:11 +0100</pubDate>
+						<guid isPermaLink="true">http://wiki/?page=JeuxJeux</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier Jeux le 01/03/2014 17:15:11<br><a href="http://wiki/?page=JeuxJeux">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier Jeux le 01/03/2014 17:15:11]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/Jeux.md]]></title>
+						<link>http://wiki/?page=JeuxJeux</link>
+						<pubDate>Fri, 03 Jan 2014 14:25:30 +0100</pubDate>
+						<guid isPermaLink="true">http://wiki/?page=JeuxJeux</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier Jeux le 01/03/2014 14:25:30<br><a href="http://wiki/?page=JeuxJeux">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier Jeux le 01/03/2014 14:25:30]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/Jeux.md]]></title>
+						<link>http://wiki/?page=JeuxJeux</link>
+						<pubDate>Fri, 03 Jan 2014 14:24:25 +0100</pubDate>
+						<guid isPermaLink="true">http://wiki/?page=JeuxJeux</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier Jeux le 01/03/2014 14:24:25<br><a href="http://wiki/?page=JeuxJeux">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier Jeux le 01/03/2014 14:24:25]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/Jeux.md]]></title>
+						<link>http://wiki/?page=JeuxJeux</link>
+						<pubDate>Fri, 03 Jan 2014 14:13:59 +0100</pubDate>
+						<guid isPermaLink="true">http://wiki/?page=JeuxJeux</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier Jeux le 01/03/2014 14:13:59<br><a href="http://wiki/?page=JeuxJeux">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier Jeux le 01/03/2014 14:13:59]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/Jeux.md]]></title>
+						<link>http://wiki/?page=JeuxJeux</link>
+						<pubDate>Fri, 03 Jan 2014 14:13:31 +0100</pubDate>
+						<guid isPermaLink="true">http://wiki/?page=JeuxJeux</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier Jeux le 01/03/2014 14:13:31<br><a href="http://wiki/?page=JeuxJeux">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier Jeux le 01/03/2014 14:13:31]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/tuto/cod4.md]]></title>
+						<link>http://192.168.1.252/plume/?page=tuto/cod4tuto/cod4</link>
+						<pubDate>Thu, 01 Jan 1970 01:00:00 +0100</pubDate>
+						<guid isPermaLink="true">http://192.168.1.252/plume/?page=tuto/cod4tuto/cod4</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier tuto/cod4 le 28/02/2014 19:01:18<br><a href="http://192.168.1.252/plume/?page=tuto/cod4tuto/cod4">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier tuto/cod4 le 28/02/2014 19:01:18]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/Accueil.md]]></title>
+						<link>http://192.168.1.252/plume/Accueil</link>
+						<pubDate>Thu, 01 Jan 1970 01:00:00 +0100</pubDate>
+						<guid isPermaLink="true">http://192.168.1.252/plume/Accueil</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier Accueil le 28/02/2014 18:36:59<br><a href="http://192.168.1.252/plume/Accueil">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier Accueil le 28/02/2014 18:36:59]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item></channel></rss>
