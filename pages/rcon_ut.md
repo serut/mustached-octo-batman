@@ -10,7 +10,9 @@
 Log in as administrator **adminlogin login**  
 Log out **adminlogout**  
   
-###### Adding and removing actors Note: The following commands may work without the admin prefix. This does not hold for rebooting the server ;)  
+###### Adding and removing actors 
+Note: The following commands may work without the admin prefix. This does not hold for rebooting the server ;)  
+
 Add bots **admin addbots number**  
 Spawn actor **admin summon class name**  
 Remove all monsters **admin killpawns**  
@@ -35,7 +37,9 @@ Change both **admin servertravel map name?Game=gametype?Mutator=mutator**
 Note: There is no space between the map name and the question mark, and between the gametype and its corresponding question mark!**  
 Restart level **admin servertravel ?restart**  
   
-###### Game control Note: To retrieve the current value, replace "set" with "get" and remove any trailing parameters. A servertravel is required for changes to take effect with commands containing a gametype.  
+###### Game control 
+Note: To retrieve the current value, replace "set" with "get" and remove any trailing parameters. A servertravel is required for changes to take effect with commands containing a gametype.  
+
 Set game password **admin set Engine.GameInfo GamePassword password**  
 Reset game password **admin set Engine.GameInfo GamePassword**  
 Set time limit **admin set gametype TimeLimit number**  

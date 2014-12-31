@@ -18,7 +18,7 @@
 
 ###### Call of Duty 2 :
 
-[PhPRCon](http://192.168.1.252/phprcon/login.php) <a href="?page=rcon_cod">Commande RCon</a>
+[PhPRCon](http://192.168.1.252/phprcon/login.php) <a href="?page=rcon_cod2">Commande RCon</a>
 
 >- Public MixMod :	192.168.1.240:28950
 >- QG Match 1 : 	192.168.1.240:28951
@@ -28,7 +28,7 @@
 
 ###### Call of Duty 4 :
 
-[PhPRCon](http://192.168.1.252/phprcon/login.php) <a href="?page=rcon_cod">Commande RCon</a>
+[PhPRCon](http://192.168.1.252/phprcon/login.php) <a href="?page=rcon_cod4">Commande RCon</a>
 
 >- Promod Public :	192.168.1.240:28960
 

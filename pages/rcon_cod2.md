@@ -1,32 +1,22 @@
-# Commandes RCon CoD :
+# Commandes RCon CoD 2 :
 
 ---
 
 #### Maps
 
-    mp_backlot 
-    mp_bloc 
-    mp_bog 
-    mp_cargoship 
-    mp_citystreets 
-    mp_convoy 
-    mp_countdown 
-    mp_crash 
-    mp_crossfire 
-    mp_farm 
-    mp_overgrown 
-    mp_pipeline 
-    mp_shipment 
-    mp_showdown 
-    mp_strike 
-    mp_vacant
-    mp_crash_snow
-    mp_broadcast 
-    mp_carentan 
-    mp_creek 
-    mp_killhouse
-
-
+    mp_breakout
+    mp_brecourt
+    mp_burgundy
+    mp_carentan
+    mp_dawnville
+    mp_decoy
+    mp_downtown
+    mp_farmhouse
+    mp_leningrad
+    mp_matmata
+    mp_railyard
+    mp_toujane
+    mp_trainstation 
 
 **/rcon sv_maprotation :** Définis la rotation et le mode des maps. Exemple : gametype dm map mp_brecourt map mp_toujane gametype tdm map mp_carentan
 
