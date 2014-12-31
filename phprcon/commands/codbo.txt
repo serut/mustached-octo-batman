@@ -1,0 +1,462 @@
+status
+dvarlist
+dvardump
+set
+map
+map_restart
+fast_restart
+map_rotate
+killserver
+say
+tell
+serverinfo
+clientkick
+unbanUser
+tempBanClient
+tempBanUser
+kick
+banClient
+banUser
+onlykick
+bot_difficulty "normal"
+bot_tips "1"
+cg_chatHeight "5"
+cg_chatTime "12000"
+cg_crosshairDynamic "0"
+cg_cursorHints "4"
+cg_draw2D "1"
+cg_drawBreathHint "1"
+cg_drawCrosshairNames "1"
+cg_drawFPS "Off"
+cg_drawFPSLabels "1"
+cg_drawFPSOnly "0"
+cg_drawFPSScale "0"
+cg_drawFriendlyNames "1"
+cg_drawGun "1"
+cg_drawHealth "0"
+cg_drawHoldBreathHint "1"
+cg_drawMantleHint "1"
+cg_drawSnapshotTime "1"
+cg_drawTurretCrosshair "1"
+cg_flareVisionSetFadeDuration "2000"
+cg_fov_default "65"
+cg_fov_default_thirdperson "40"
+cg_gameBoldMessageWidth "390"
+cg_gameMessageWidth "455"
+cg_headIconMinScreenRadius "0.015"
+cg_hintFadeTime "100"
+cg_hudChatIntermissionPosition "5 90"
+cg_hudChatPosition "5 204"
+cg_hudDamageDirectionalIconTime "1000"
+cg_hudDamageIconHeight "64"
+cg_hudDamageIconInScope "0"
+cg_hudDamageIconOffset "128"
+cg_hudDamageIconTime "2000"
+cg_hudDamageIconWidth "128"
+cg_hudGrenadeIconEnabledFlash "0"
+cg_hudGrenadeIconHeight "25"
+cg_hudGrenadeIconInScope "0"
+cg_hudGrenadeIconMaxHeight "104"
+cg_hudGrenadeIconOffset "50"
+cg_hudGrenadeIconWidth "25"
+cg_hudGrenadePointerHeight "12"
+cg_hudGrenadePointerPivot "12 27"
+cg_hudGrenadePointerWidth "25"
+cg_hudMapBorderWidth "2"
+cg_hudMapFriendlyHeight "15"
+cg_hudMapFriendlyWidth "15"
+cg_hudMapPlayerHeight "20"
+cg_hudMapPlayerWidth "20"
+cg_hudObjectiveTextScale "0.3"
+cg_hudSayPosition "5 180"
+cg_hudStanceHintPrints "0"
+cg_hudVotePosition "5 220"
+cg_overheadIconSize "0.7"
+cg_overheadNamesFont "2"
+cg_overheadNamesSize "0.5"
+cg_overheadRankSize "0.5"
+cg_seatHintFadeTime "2000"
+cg_teamChatsOnly "0"
+cg_treadmarks "0"
+cg_voiceIconSize "0"
+cg_weaponCycleDelay "0"
+cg_weaponHintsCoD1Style "1"
+cg_youInKillCamSize "11"
+cl_allowDownload "1"
+cl_freelook "1"
+cl_maxpackets "30"
+cl_maxPing "800"
+cl_maxppf "5"
+cl_mouseAccel "0"
+cl_packetdup "1"
+cl_paused "0"
+cl_pitchspeed "140"
+cl_voice "1"
+cl_wwwDownload "1"
+cl_yawspeed "140"
+clanName ""
+com_maxfps "85"
+con_minicon "0"
+con_miniconlines "5"
+con_minicontime "4"
+con_outputBarColor "1 1 0.95 0.6"
+con_outputSliderColor "0.15 0.15 0.1 0.6"
+con_outputWindowColor "0.35 0.35 0.3 0.75"
+demo_enabled "1"
+drawLagometer "0"
+fx_marks "1"
+g_allowvote "1"
+g_gametype "tdm"
+g_pregame_enabled "0"
+g_useGear "0"
+gpad_buttonsConfig "buttons_default"
+gpad_enabled "0"
+gpad_sticksConfig "thumbstick_default"
+in_mouse "1"
+input_invertPitch "0"
+input_viewSensitivity "1"
+koth_autodestroytime "60"
+koth_capturetime "20"
+koth_delayPlayer "0"
+koth_destroytime "10"
+koth_kothmode "0"
+koth_spawnDelay "60"
+koth_spawntime "45"
+lb_type "tdm"
+log_append "0"
+logfile "2"
+m_filter "0"
+m_forward "0.25"
+m_pitch "0.022"
+m_side "0.25"
+m_yaw "0.022"
+mapname ""
+monkeytoy "0"
+net_ip "localhost"
+net_noudp "0"
+net_port "3074"
+net_socksEnabled "0"
+net_socksPassword ""
+net_socksPort "1080"
+net_socksServer ""
+net_socksUsername ""
+party_minplayers "2"
+password ""
+playlist "1"
+playlist_enabled "0"
+playlist_excludeGametype ""
+playlist_excludeGametypeMap ""
+playlist_excludeMap ""
+r_aaAlpha "dither (fast)"
+r_allow_intz "1"
+r_allow_null_rt "1"
+r_autopriority "0"
+r_blur_allowed "1"
+r_clipCodec "MJPEG"
+r_clipFPS "24"
+r_clipSize "360"
+r_distortion "1"
+r_dof_enable "1"
+r_fullscreen "1"
+r_multiGpu "1"
+r_multithreaded_device "0"
+r_specular "1"
+r_use_driver_convergence "0"
+ragdoll_enable "1"
+ragdoll_max_simulating "16"
+rate "25000"
+rcon_password ""
+scr_allowannouncer "1"
+scr_allowbattlechatter "1"
+scr_bot_difficulty ""
+scr_ctf_enemycarriervisible "0"
+scr_ctf_flagrespawntime "0"
+scr_ctf_globalbattlechatterprobability "0"
+scr_ctf_idleflagreturntime "30"
+scr_ctf_numlives "0"
+scr_ctf_playerrespawndelay "0"
+scr_ctf_roundlimit "3"
+scr_ctf_roundswitch "1"
+scr_ctf_scorelimit "3"
+scr_ctf_timelimit "5"
+scr_ctf_touchreturn "1"
+scr_ctf_waverespawndelay "15"
+scr_dem_bombtimer "45"
+scr_dem_defusetime "5"
+scr_dem_extratime "3"
+scr_dem_globalbattlechatterprobability "0"
+scr_dem_numlives "0"
+scr_dem_planttime "5"
+scr_dem_roundlimit "0"
+scr_dem_roundswitch "1"
+scr_dem_scorelimit "2"
+scr_dem_timelimit "2.5"
+scr_disable_air_death_ragdoll "0"
+scr_disable_attachments "0"
+scr_disable_cac "0"
+scr_disable_contracts "0"
+scr_disable_equipment "0"
+scr_disable_tacinsert "0"
+scr_disable_weapondrop "0"
+scr_dm_bonus_leader "0"
+scr_dm_globalbattlechatterprobability "100"
+scr_dm_numlives "0"
+scr_dm_playerrespawndelay "0"
+scr_dm_roundlimit "1"
+scr_dm_score_assist "0"
+scr_dm_score_death "0"
+scr_dm_score_headshot "0"
+scr_dm_score_kill "50"
+scr_dm_score_suicide "0"
+scr_dm_scorelimit "1500"
+scr_dm_timelimit "10"
+scr_dm_waverespawndelay "0"
+scr_dog_count "8"
+scr_dog_health "100"
+scr_dog_max_at_once "4"
+scr_dog_time "60"
+scr_dom_flagcapturetime "10"
+scr_dom_globalbattlechatterprobability "0"
+scr_dom_numlives "0"
+scr_dom_playerrespawndelay "0"
+scr_dom_roundlimit "1"
+scr_dom_scorelimit "200"
+scr_dom_timelimit "0"
+scr_dom_waverespawndelay "0"
+scr_drawfriend "0"
+scr_fog_disable "0"
+scr_game_allowfinalkillcam "1"
+scr_game_allowkillcam "1"
+scr_game_bulletdamage "1.0"
+scr_game_deathpointloss "0"
+scr_game_forceradar "0"
+scr_game_graceperiod "0"
+scr_game_hardpoints "1"
+scr_game_killstreaks "1"
+scr_game_onlyheadshots "0"
+scr_game_perks "1"
+scr_game_prematchperiod "15"
+scr_game_spectatetype "1"
+scr_game_suicidepointloss "0"
+scr_gun_game_spectatetype "3"
+scr_hardcore "0"
+scr_hardpoint_allowairstrike "1"
+scr_hardpoint_allowartillery "1"
+scr_hardpoint_allowauto_turret "1"
+scr_hardpoint_allowcounteruav "1"
+scr_hardpoint_allowdogs "1"
+scr_hardpoint_allowhelicopter_comlink "1"
+scr_hardpoint_allowhelicopter_gunner "1"
+scr_hardpoint_allowhelicopter_player "1"
+scr_hardpoint_allowmortar "1"
+scr_hardpoint_allownapalm "1"
+scr_hardpoint_allowradar "1"
+scr_hardpoint_allowradardirection "1"
+scr_hardpoint_allowrcbomb "1"
+scr_hardpoint_allowsupply "1"
+scr_hardpoint_allowuav "1"
+scr_hlnd_game_spectatetype "3"
+scr_intermission_time "15"
+scr_kick_time "60"
+scr_killstreak_stacking "0"
+scr_koth_globalbattlechatterprobability "0"
+scr_koth_numlives "0"
+scr_koth_playerrespawndelay "0"
+scr_koth_roundlimit "1"
+scr_koth_roundswitch "1"
+scr_koth_scorelimit "250"
+scr_koth_timelimit "15"
+scr_koth_waverespawndelay "0"
+scr_motd "Message of the Day"
+scr_oic_game_spectatetype "3"
+scr_player_allowrevive "1"
+scr_player_forcerespawn "1"
+scr_player_healthregentime "5"
+scr_player_maxhealth "100"
+scr_player_numlives "0"
+scr_player_respawndelay "0"
+scr_player_sprinttime "4"
+scr_player_suicidespawndelay "0"
+scr_rcbomb_notimeout "0"
+scr_sab_bombtimer "30"
+scr_sab_defusetime "5"
+scr_sab_globalbattlechatterprobability "0"
+scr_sab_hotpotato "0"
+scr_sab_numlives "0"
+scr_sab_planttime "2.5"
+scr_sab_playerrespawndelay "7.5"
+scr_sab_roundlimit "1"
+scr_sab_roundswitch "1"
+scr_sab_scorelimit "1"
+scr_sab_timelimit "10"
+scr_sab_waverespawndelay "0"
+scr_sd_bombtimer "45"
+scr_sd_defusetime "5"
+scr_sd_game_spectatetype "3"
+scr_sd_globalbattlechatterprobability "0"
+scr_sd_multibomb "0"
+scr_sd_numlives "1"
+scr_sd_planttime "5"
+scr_sd_playerrespawndelay "0"
+scr_sd_roundlimit "0"
+scr_sd_roundswitch "3"
+scr_sd_scorelimit "4"
+scr_sd_timelimit "2.5"
+scr_sd_waverespawndelay "0"
+scr_shrp_game_spectatetype "3"
+scr_tdm_bonus_leader "0"
+scr_tdm_globalbattlechatterprobability "0"
+scr_tdm_numlives "0"
+scr_tdm_playerrespawndelay "0"
+scr_tdm_roundlimit "1"
+scr_tdm_score_assist "50"
+scr_tdm_score_death "0"
+scr_tdm_score_headshot "0"
+scr_tdm_score_kill "100"
+scr_tdm_score_suicide "0"
+scr_tdm_scorelimit "7500"
+scr_tdm_timelimit "10"
+scr_tdm_waverespawndelay "0"
+scr_team_allowHardpointStreakAfterDeath "0"
+scr_team_artilleryTeamKillPenalty "0.25"
+scr_team_fftype "0"
+scr_team_kickteamkillers "0"
+scr_team_mortarTeaTeamKillPenalty "0.25"
+scr_team_respawntime "0"
+scr_team_teamkillerplaylistbanpenalty "0"
+scr_team_teamkillerplaylistbanquantum "0"
+scr_team_teamkillpointloss "1"
+scr_team_teamkillspawndelay "20"
+scr_teambalance "0"
+scr_teamKillPunishCount "4"
+sd_xa2_device_guid "{2917b0df-d02d-4972-807e-29e3c344ecf2}"
+sensitivity "5"
+sm_enable "1"
+sm_maxLights "4"
+snaps "20"
+snd_enableEq "0"
+snd_khz "44"
+snd_losOcclusion "1"
+snd_menu_center_channel "1"
+snd_menu_cinematic "1"
+snd_menu_left_channel "1"
+snd_menu_left_surround "1"
+snd_menu_lfe "1"
+snd_menu_listen_level "0"
+snd_menu_master "1"
+snd_menu_music "1"
+snd_menu_right_channel "1"
+snd_menu_right_surround "1"
+snd_menu_sfx "1"
+snd_menu_speaker_setup "0"
+snd_menu_voice "1"
+snd_speakerConfiguration "5.1"
+steamid ""
+sv_allowDownload "1"
+sv_connectTimeout "80"
+sv_disableClientConsole "0"
+sv_floodprotect "4"
+sv_fps "20"
+sv_hostname "BlackOpsPrivate"
+sv_kickBanTime "300"
+sv_mapRotation "map mp_array map mp_cracked map mp_crisis map mp_firingrange map mp_duga map mp_hanoi map mp_cairo map mp_havoc map mp_cosmodrome map mp_nuked map mp_radiation map mp_mountain map mp_villa map mp_russianbase"
+sv_mapRotationCurrent ""
+sv_maxclients "24"
+sv_maxPing "0"
+sv_maxRate "5000"
+sv_minPing "0"
+sv_privateClients "0"
+sv_privatePassword ""
+sv_pure "1"
+sv_ranked "0"
+sv_reconnectlimit "3"
+sv_timeout "240"
+sv_vac "1"
+sv_voice "0"
+sv_voiceQuality "3"
+sv_wwwBaseURL ""
+sv_wwwDlDisconnected "0"
+sv_wwwDownload "0"
+sv_zombietime "2"
+team_indicator "0"
+ui_hud_obituaries "1"
+ui_hud_showobjicons "1"
+version "Call of Duty Multiplayer - Ship COD_T5_S MP build 7.0.27 CL(794786) CODPCAB-V64 CEG Sun Nov 07 15:00:58 2010 win-x86"
+waypointIconHeight "36"
+waypointIconWidth "36"
+waypointOffscreenPointerDistance "20"
+
+PB_SV_AutoUpdBan [0/1]
+PB_SV_BadName [grace_seconds] [text_filter]
+PB_SV_BadNameDel [slot #]
+PB_SV_BadNameList
+PB_SV_Ban [name or slot #] [displayed_reason] | [optional_private_reason]
+PB_SV_BanEmpty
+PB_SV_BanGuid [guid] [player_name] [IP_Address] [reason]
+PB_SV_BanList [optional_search_text]
+PB_SV_BanLoad [optional filename]
+PB_SV_BanMask [IP Address / Subnet Mask]
+PB_SV_Disable
+PB_SV_Enable
+PB_SV_GetSs [player_name_or_slot#]
+PB_SV_IPGuard [IP Address]
+PB_SV_Kick [name or slot #] [minutes] [displayed_reason] | [optional_private_reason]
+PB_SV_Load [File Name]
+PB_SV_NameLock [GUID or partial match] [Name to Lock]
+PB_SV_NameLockEmpty
+PB_SV_NameLockList
+PB_SV_NewLog
+PB_SV_PList
+PB_SV_Power [slot #] [power rating]
+PB_SV_PowerList [filter]
+PB_SV_PowerPoints [power slot #] [points]
+PB_SV_ProtectName [Unique ID] [Registered Name]
+PB_SV_ProtectTag [Unique ID] [Registered Tag]
+PB_SV_ReBan [slot #]
+PB_SV_Task [X] [Y] [command]
+PB_SV_TaskDel [task slot #]
+PB_SV_TaskEmpty
+PB_SV_TList
+PB_SV_UnBan [slot #]
+PB_SV_UnBanGuid [guid]
+PB_SV_Update
+PB_SV_UpdBanFile [optional filename]
+PB_SV_Ver
+PB_SV_WriteCfg
+PB_SV_AutoSs [0/1]
+PB_SV_AutoSsFrom [Seconds]
+PB_SV_AutoSsTo [Seconds]
+PB_SV_ExtChar [0/1]
+PB_SV_GameAuth [0/1]
+PB_SV_HttpAddr [IP Address]
+PB_SV_HttpKey [Key (password) for WebTool use]
+PB_SV_HttpPort [Port Number]
+PB_SV_HttpRefresh [Number]
+PB_SV_KickLen [Minutes]
+PB_SV_LanMask [IP Subnet Mask]
+PB_SV_LogAddr [Address / Internet Hostname]
+PB_SV_LogCeiling [Number]
+PB_SV_LogNext [Number]
+PB_SV_LogPort [Port #]
+PB_SV_LogPw [Password]
+PB_SV_LogUser [Username]
+PB_SV_MaxConDls [Number]
+PB_SV_MaxDlRate [KB/sec]
+PB_SV_MsgPrefix [New Prefix]
+PB_SV_NoGuidGrace [Seconds]
+PB_SV_PowerDef [power points]
+PB_SV_PowerKickLen [minutes]
+PB_SV_PowerMin [power points]
+PB_SV_Sleep [Period]
+PB_SV_SsCeiling [Number]
+PB_SV_SsCmd [Filename]
+PB_SV_SsDelay [Seconds]
+PB_SV_SsFloor [Number]
+PB_SV_SsHeight [Pixels]
+PB_SV_SsNext [Number]
+PB_SV_SsPath [Path]
+PB_SV_SsSRate [Number]
+PB_SV_SsWidth [Pixels]
+PB_SV_SsXPct [Percentage]
+PB_SV_SsYPct [Percentage]
+PB_SV_UpdateGrace [Seconds]

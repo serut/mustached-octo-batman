@@ -1,0 +1,348 @@
+Adresse du Switch auquel on veut se connecter ( avec un slash a la fin ) : <input id="adress" value="http://192.168.1.2/">
+<button onclick="document.getElementById('el').setAttribute('data-origin',document.getElementById('adress').value);document.getElementById('el').src=document.getElementById('adress').value;"> Valider</button>
+<br>
+
+<iframe src="http://192.168.1.2" data-origin="http://192.168.1.2/" id="el" width="1000" height="800"></iframe>
+<br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'sum_SwitchInfo.html'">
+Switch Information     
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'cfg_Ip.html'">
+IP                           
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'cfg_Ipv6.html'">
+IPv6                         
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'cfg_System.html'">
+System                       
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'cfg_RemoteAccess.html'">
+Remote Access                
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'cfg_SNMP.html'">
+SNMPv1                       
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'cfg_SNMPv3.htm'">
+System Information 
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'cfg_SNMPv3UsmUser.htm'">
+User Specification 
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'cfg_SNMPv3VacmGroup.htm'">
+Group Membership 
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'cfg_SNMPv3VacmAccess.htm'">
+Group Access Rights 
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'cfg_SNMPv3VacmView.htm'">
+Management Info View 
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'cfg_SNMPv3Notify.htm'">
+Notification 
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'cfg_SNMPv3TargetAddr.htm'">
+Target Address 
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'cfg_SNMPv3TargetParams.htm/MENU'">
+Target Parameter 
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'cfg_SNMPTrap.html'">
+SNMP Trap 
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'cfg_MacTbl.html'">
+MAC Address            
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'cfg_MacTblFind.html'">
+Find MAC Address           
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'cfg_MacTblUnitPort.html'">
+Port MAC Address              
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'cfg_PortMgmt.html?port='">
+Port Management      
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'cfg_HighSpeedFlow.html'">
+High Speed Flow Control            
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'cfg_SwLoad.html'">
+Software Download
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'cfg_asciiConfigScriptTable.html'">
+Ascii Configuration Script Table         
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'cfg_ConfigFile.html'">
+Configuration File           
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'fau_RMONAlarm.html'">
+RMON Alarm      
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'fau_RMONEvent.html'">
+RMON Event      
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'fau_RMONEventLogs.html'">
+RMON Event Log 
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'fau_SystemLog.html'">
+System Log      
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'sta_Port.html'">
+Port                  
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'sta_PortErrSum.html'">
+Port Error Summary    
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'sta_Interface.html'">
+Interface             
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'sta_EthernetErr.html'">
+Ethernet Errors       
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'sta_TransBridge.html'">
+Transparent Bridging  
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'sta_RMONEth.html'">
+RMON Ethernet         
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'sta_RMONHist.html'">
+RMON History          
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'app_PortMirror.html'">
+Port Mirroring            
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'app_RateLimiting.html?port='">
+Rate Limiting 
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'app_EAP.html?port='">
+EAPOL Security            
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'app_MACSecurity.html'">
+Security Configuration    
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'app_MACSecurityPort.html'">
+Port Configuration        
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'app_MACSecurityList.html'">
+Port Lists                 
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'app_MACSecurityTable.html'">
+Security Table            
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'app_MACFilter.html'">
+DA MAC Filtering          
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'app_IGMP.htm'">
+IGMP Configuration  
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'app_IGMPGlobal.htm'">
+IGMP Global Settings 
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'app_IGMPMember.htm/MENU'">
+Multicast Group     
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'app_VLANCfg.html'">
+VLAN Configuration        
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'app_VLANPortCfg.html?screen=1'">
+Port Configuration        
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'app_VLANPortInfo.html'">
+Port Information          
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'app_SPTGroup.h'">
+Group Configuration 
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'app_SPTGroupVLAN.h'">
+VLAN Membership      
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'app_SPTMode.htm'">
+Operational Mode     
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'app_SPTPort.html?port'">
+Port Configuration   
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'app_SPTBridge.htm/MENU'">
+Bridge Information   
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'app_MLT.htm'">
+Group                     
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'app_MLTUtil.htm/MENU'">
+Utilization               
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'app_LACPBridgeConfig.html'">
+Bridge Configuration      
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'app_LACPPortConfig.html?port='">
+Port Configuration        
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'app_LACPPortStats.html?port='">
+Port Statistics           
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'qosWizardConfig.html'">
+QoS Wizard Config         
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'qosWizardManage.html'">
+QoS Wizard Mgmt           
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'app_QoSIfShaperv2.html'">
+Interface Shaper          
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'app_QoSIfConfigv2.html'">
+Interface Config          
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'app_QoSUserPriAssignv2.html'">
+Priority Q Assign         
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'app_QoSUserPriMappingv2.html'">
+Priority Mapping          
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'app_QoSDSCPMappingv2.html'">
+DSCP Mapping              
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'app_QoSIfCapMeterv2.html'">
+Meter Capability          
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'app_QoSIfCapShaperv2.html'">
+Shaper Capability         
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'app_QoSDsClfrv2.html'">
+IP Classifier Elem        
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'app_QoSL2Clfrv2.html'">
+L2 Classifier Elem        
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'app_QoSSystemClfrv2.html?copy=0'">
+System Clfr Elem          
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'app_QoSClfrCompv2.html'">
+Classifier                
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'app_QoSClfrBlockv2.html'">
+Classifier Block          
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'app_QoSBaseActionv2.html'">
+Action                    
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'app_QoSIfcActionv2.html'">
+Interface Action Ext      
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'app_QoSMeterv2.html'">
+Meter                     
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'app_QoSIfShaperv2.html'">
+Interface Shaper          
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'app_QoSPolicyv2.html'">
+Policy                    
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'app_QoSConfigv2.html'">
+Configuration             
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'app_QoSDiagBBv2.html'">
+Diagnostics               
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'app_ADACMain.html'">
+Global Configuration 
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'app_ADACPort.html'">
+Port Configuration 
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'app_ADACDetect.html'">
+Port Detection 
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'app_ADACRangeTable.html'">
+MAC Range Table 
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'app_LLDP.html'">
+LLDP Configuration        
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'app_LLDPsysData.html?screen=1'">
+LLDP Local System Data    
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'app_LLDPManagement.html?screen=1'">
+LLDP Local Management     
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'app_LLDPtxtlv.html?screen=1'">
+LLDP Tx-TLV               
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'app_LLDPRxTxStats.html?screen=1'">
+LLDP Rx-Tx Statistics          
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'app_LLDPNeighbor.html'">
+LLDP Neighbor             
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'app_LLDPNeighborMng.html'">
+LLDP Neighbor Management 
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'app_RoutingConfig.html'">
+IPv4 Configuration        
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'app_RoutingTable.html'">
+IPv4 Routing Table        
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'app_RoutingStaticTable.html'">
+IPv4 Static Routes  
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'app_RoutingARP.html'">
+IPv4 ARP                   
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'app_RoutingProxyArp.html'">
+ARP Proxy                   
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'app_DHCPRelayCfg.html'">
+DHCP Relay Configuration        
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'app_DHCPRelayVLAN.html'">
+DHCP Relay VLAN        
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'app_IpSourceGuard.html'">
+Ip Source Config          
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'app_IpSourceGuardBinding.html'">
+Ip Source Binding         
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'app_IPSGPortStatistics.html'">
+Ip Source Statistics         
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'app_Tacacs.html'">
+TACACS         
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'adm_SystemInfo.html'">
+System Information      
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'adm_QuickStart.html'">
+Quick Start 
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'adm_Telnet.htm'">
+Web/Telnet 
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'adm_Console.htm'">
+Console 
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'adm_Radius.html'">
+RADIUS 
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'adm_CpuMemUtil.html'">
+CPU/Memory Utilization 
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'logout.html'">
+Logout                  
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'reset.html'">
+Reset  
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'resetDefault.html'">
+Reset To Default  
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'pagehelp.ht'">
+Help           
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'releasenotes.ht'">
+Release Notes 
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'manuals.htm'">
+Manuals        
+</a><br>
+<a onclick="document.getElementById('el').src=document.getElementById('el').getAttribute('data-origin')+'upgrade.htm'">
+Upgrade        
+</a>
