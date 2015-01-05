@@ -8,17 +8,17 @@
 
 
 ## FPS
-Battlefield Bad Company 2 - [Lien](http://192.168.1.252/jeux/BFBC2_UG_5_3.zip) - [Tutoriel](http://192.168.1.242/jeux/BC2.txt)  
-Call of Duty 2 version 5.1 - [Lien](http://192.168.1.252/jeux/Call_of_Duty_2_V5.1.rar)  
-Call of Duty 4 version 5.1 - [Lien](http://192.168.1.252/jeux/Call_of_Duty_4_V5.1.rar) - [Tutoriel](?page=tuto/cod4)  
-Call of Duty 5 version 5.2 - [Lien](http://192.168.1.252/jeux/Call_of_Duty_5_V5.2.rar) - [Tutoriel](?page=tuto/cod5)  
-Counter Strike Global Offensive version 5.4 - [Lien](http://192.168.1.252/jeux/CSGO_UG_5_4.zip)   
-Counter Strike Source version 5.4 - [Lien](http://192.168.1.252/jeux/CSS_UG_5_4.zip)   
-Day of Defeat Source version 5.2 - [Lien](http://192.168.1.252/jeux/DoDS_V5.2.rar)  
-Quake 3 version 5.1 - [Lien](http://192.168.1.252/jeux/Quake3_V5.1.rar)  
-Team Fortress 2 - [Lien](http://192.168.1.252/jeux/TF2_UG_5_4.zip) - [Tutoriel](http://192.168.1.242/jeux/TF2.txt)  
-Shootmania version 5.1 - [Lien](http://192.168.1.252/jeux/ShootmaniaOpenBeta.exe)   
-Unreal Tournament III version 5.3 - [Lien](http://192.168.1.252/jeux/UT3_UG_5_3.zip) - [Tutoriel](?page=tuto/ut3)  
+[Battlefield Bad Company 2](?page=tuto/bfbc2)   
+[Call of Duty 2 version 5.1](?page=tuto/cod2)  
+[Call of Duty 4 version 5.1](?page=tuto/cod4)  
+[Call of Duty 5 version 5.2](?page=tuto/cod5)  
+[Counter Strike Global Offensive version 5.4](?page=tuto/csgo)   
+[Counter Strike Source version 5.4](?page=tuto/css)   
+[Day of Defeat Source version 5.2](?page=tuto/dods)   
+[Quake 3 version version 5.1](?page=tuto/quake3)  
+[Team Fortress 2 version 5.4](?page=tuto/tf2)  
+[Shootmania version 5.1](?page=tuto/shootmania)  
+[Unreal Tournament III version 5.3](?page=tuto/ut3)  
 
 ## RTS
 Age Of Empire HD version 5.4 - [Lien](http://192.168.1.252/jeux/AOE2HD_5_4.zip)  
@@ -29,7 +29,7 @@ Warcraft 3 - [Lien](http://192.168.1.252/jeux/Warcraft_1.26_V5.1.rar)
 Left For dead 2 - [Lien](http://192.168.1.252/jeux/L4D2_UG_5_3.zip) - [Tutoriel](http://192.168.1.242/jeux/L4D2.txt)  
 Killing Floor version 5.4 - [Lien](http://192.168.1.252/jeux/KF_UG_5_4.zip) - [Tutoriel](http://192.168.1.242/jeux/KF.txt)
 
-## Courses
+## Racing
 Blur version 5.1 - [Lien](http://192.168.1.252/jeux/Blur_V5.1.rar)  
 Flatout 2 version 5.2 - [Lien](http://192.168.1.252/jeux/FlatOut_2_V5.2.rar) - [Tutoriel](?page=tuto/flatout2)  
 
