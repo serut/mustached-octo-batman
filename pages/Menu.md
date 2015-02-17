@@ -2,7 +2,4 @@
 <a href="?page=Jeux">Jeux</a>
 <a href="?page=Tournois">Tournois</a>
 <a href="?page=Logiciels">Logiciels</a>
-<a href="?page=Tutoriels">Tutoriels</a>
-<a href="?page=Bugs">Bugs</a>
-<a href="?page=Syntaxe">Syntaxe</a>
-<a href="?page=A propos">A propos</a></p></p>
+<a href="?page=restaurant/mirepoix-pizza">Restauration</a>

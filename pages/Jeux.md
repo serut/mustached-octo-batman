@@ -1,7 +1,7 @@
-
 # Jeux :
 
 ---
+<img src="./upload/pubSkill.gif">
 
 ###### Liste des jeux :
 [Autres](http://192.168.1.252/jeux/)
@@ -39,5 +39,6 @@ Super Street Fighter 4 : Arcade Edition 2012 5.3 - [Lien](http://192.168.1.252/j
 ## Others
 Star Wars Jedi Knight 2 version 5.4 - [Lien](http://192.168.1.252/jeux/SWJK2_UG_5.4.zip)  
 
+<img src="./upload/pubSkill.gif">
 
 Autres fichiers - [Lien](http://192.168.1.252/jeux/)
