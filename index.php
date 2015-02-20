@@ -2,7 +2,7 @@
 require_once('common.php');
 
 //Lecture de la page courante et conversion markdown/html
-$pageContent = file_exists($pagePath )?file_get_contents($pagePath):'Le contenu de  **'.$page.'** est vide :p';
+$pageContent = file_exists($pagePath )?file_get_contents($pagePath):'La page **'.$page.'** n\'existe pas !';
 //Mode lecture/mode edition
 $pageContent = Parsedown::instance()->parse($pageContent);
 
@@ -16,7 +16,7 @@ $pageContent = Parsedown::instance()->parse($pageContent);
     <head>
         <meta http-equiv="content-type" content="text/html;charset=utf-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title>Plume</title>
+        <title>Wiki - Unreal Gaming</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -37,7 +37,7 @@ $pageContent = Parsedown::instance()->parse($pageContent);
         <div id='main-container'>
 		
 				<div id='menu-container'>
-						<div id="logo" onclick="window.location='index.php';"><span >V<?php echo APPLICATION_VERSION; ?></span></div>
+						<div id="logo" onclick="window.location='index.php';"><img src="./images/logo.jpg"></div>
 						<ul id='menu'></ul>
 						<div id='option-edit-menu' onclick="edit('<?php echo MD_MENU; ?>',this,'menu');">Editer</div>
 					<div id='media-container'>
@@ -100,3 +100,43 @@ $pageContent = Parsedown::instance()->parse($pageContent);
         <script type="text/javascript" src="js/main.js"></script>
     </body>
 </html>
+<?php
+if ($page == MD_ACCUEIL) {
+?>
+<script type="text/javascript">
+$(function() {
+	$.ajax({
+		type: "POST",
+		url: "server.php?type=cod4&ip=91.121.55.41&port=28930",
+		// contentType: "application/json; charset=utf-8",
+		error: function (x, e) { console.log(e.responseText); },
+		success: function (data) {
+			html = $.parseHTML(data)
+			$('#server-cod4').append(html);
+		}
+	});
+	$.ajax({
+		type: "POST",
+		url: "server.php?type=dods&ip=162.252.82.28&port=27015",
+		// contentType: "application/json; charset=utf-8",
+		error: function (x, e) { console.log(e.responseText); },
+		success: function (data) {
+			html = $.parseHTML(data)
+			$('#server-dods').append(html);
+		}
+	});
+	$.ajax({
+		type: "POST",
+		url: "server.php?type=tf2&ip=66.150.155.159&port=27016",
+		// contentType: "application/json; charset=utf-8",
+		error: function (x, e) { console.log(e.responseText); },
+		success: function (data) {
+			html = $.parseHTML(data)
+			$('#server-tf2').append(html);
+		}
+	});
+});
+</script>
+<?php
+}
+?>

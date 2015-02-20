@@ -2,7 +2,7 @@
 //Mot de passe d'édition
 define('ADMIN_PASSWORD','unreal09');
 //Titre du wiki
-define('APPLICATION_TITLE','Plume');
+define('APPLICATION_TITLE','Unreal Gaming wiki');
 //Taille maximum d'upload de fichiers
 define('MAX_UPLOAD_SIZE',100000);
 //Formats interdits à l'upload
