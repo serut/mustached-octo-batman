@@ -126,3 +126,9 @@
 2014-12-28 12:37:31 admin@CoD2 Public: map_rotate
 2014-12-28 12:47:32 admin@CoD2 Public: map mp_toujane
 2014-12-28 13:19:31 admin@CoD2 Public: map_rotate
+2015-02-21 15:19:53 admin@CoD2 Public: map_rotate
+2015-02-21 23:55:08 admin@CoD4 Promod204 Public: g_gametype sd
+2015-02-21 23:55:11 admin@CoD4 Promod204 Public: map_restart
+2015-02-22 00:23:58 admin@CoD4 Promod204 Public: map mp_crossfire
+2015-02-22 00:25:11 admin@CoD4 Promod204 Public: clientkick 3 //Username=pikaworm IP=192.168.1.63 (--)
+2015-02-22 00:25:14 admin@CoD4 Promod204 Public: clientkick 3

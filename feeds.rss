@@ -1,17 +1,600 @@
 <?xml version="1.0" encoding="UTF-8"?>
 		<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
 		<channel>
-					<title>Plume</title>
-					<atom:link href="192.168.1.15" rel="self" type="application/rss+xml"/>
-					<link>192.168.1.15</link>
+					<title>Unreal Gaming wiki</title>
+					<atom:link href="192.168.1.43" rel="self" type="application/rss+xml"/>
+					<link>192.168.1.43</link>
 					<description>Aggrégation des flux</description>
 					<language>fr-fr</language>
 					<copyright>DWTFYW</copyright>
-					<pubDate>Sat, 01 Nov 2014 15:17:07 +0100</pubDate>
-					<lastBuildDate>Sat, 01 Nov 2014 15:17:07 +0100</lastBuildDate>
+					<pubDate>Sat, 21 Feb 2015 22:43:03 +0100</pubDate>
+					<lastBuildDate>Sat, 21 Feb 2015 22:43:03 +0100</lastBuildDate>
 					<sy:updatePeriod>hourly</sy:updatePeriod>
 					<sy:updateFrequency>1</sy:updateFrequency>
-					<generator>Plume</generator><item>
+					<generator>Unreal Gaming wiki</generator><item>
+						<title><![CDATA[Modification ./pages/tuto/ut3.md]]></title>
+						<link>http://www.google.fr/?page=tuto/ut3tuto/ut3</link>
+						<pubDate>Thu, 01 Jan 1970 01:00:00 +0100</pubDate>
+						<guid isPermaLink="true">http://www.google.fr/?page=tuto/ut3tuto/ut3</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier tuto/ut3 le 21/02/2015 22:21:43<br><a href="http://www.google.fr/?page=tuto/ut3tuto/ut3">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier tuto/ut3 le 21/02/2015 22:21:43]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/tuto/ut3.md]]></title>
+						<link>http://www.google.fr/?page=tuto/ut3tuto/ut3</link>
+						<pubDate>Thu, 01 Jan 1970 01:00:00 +0100</pubDate>
+						<guid isPermaLink="true">http://www.google.fr/?page=tuto/ut3tuto/ut3</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier tuto/ut3 le 21/02/2015 19:26:25<br><a href="http://www.google.fr/?page=tuto/ut3tuto/ut3">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier tuto/ut3 le 21/02/2015 19:26:25]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/restaurant/mirepoix-pizza.md]]></title>
+						<link>http://192.168.1.252/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza</link>
+						<pubDate>Thu, 01 Jan 1970 01:00:00 +0100</pubDate>
+						<guid isPermaLink="true">http://192.168.1.252/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier restaurant/mirepoix-pizza le 21/02/2015 18:50:47<br><a href="http://192.168.1.252/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier restaurant/mirepoix-pizza le 21/02/2015 18:50:47]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/restaurant/mirepoix-pizza.md]]></title>
+						<link>http://192.168.1.252/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza</link>
+						<pubDate>Thu, 01 Jan 1970 01:00:00 +0100</pubDate>
+						<guid isPermaLink="true">http://192.168.1.252/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier restaurant/mirepoix-pizza le 21/02/2015 18:47:38<br><a href="http://192.168.1.252/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier restaurant/mirepoix-pizza le 21/02/2015 18:47:38]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/restaurant/mirepoix-pizza.md]]></title>
+						<link>http://192.168.1.252/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza</link>
+						<pubDate>Thu, 01 Jan 1970 01:00:00 +0100</pubDate>
+						<guid isPermaLink="true">http://192.168.1.252/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier restaurant/mirepoix-pizza le 21/02/2015 18:47:15<br><a href="http://192.168.1.252/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier restaurant/mirepoix-pizza le 21/02/2015 18:47:15]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/restaurant/mirepoix-pizza.md]]></title>
+						<link>http://192.168.1.252/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza</link>
+						<pubDate>Thu, 01 Jan 1970 01:00:00 +0100</pubDate>
+						<guid isPermaLink="true">http://192.168.1.252/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier restaurant/mirepoix-pizza le 21/02/2015 18:47:00<br><a href="http://192.168.1.252/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier restaurant/mirepoix-pizza le 21/02/2015 18:47:00]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/restaurant/mirepoix-pizza.md]]></title>
+						<link>http://192.168.1.252/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza</link>
+						<pubDate>Thu, 01 Jan 1970 01:00:00 +0100</pubDate>
+						<guid isPermaLink="true">http://192.168.1.252/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier restaurant/mirepoix-pizza le 21/02/2015 18:46:30<br><a href="http://192.168.1.252/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier restaurant/mirepoix-pizza le 21/02/2015 18:46:30]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/restaurant/mirepoix-pizza.md]]></title>
+						<link>http://192.168.1.252/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza</link>
+						<pubDate>Thu, 01 Jan 1970 01:00:00 +0100</pubDate>
+						<guid isPermaLink="true">http://192.168.1.252/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier restaurant/mirepoix-pizza le 21/02/2015 18:46:07<br><a href="http://192.168.1.252/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier restaurant/mirepoix-pizza le 21/02/2015 18:46:07]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/restaurant/mirepoix-pizza.md]]></title>
+						<link>http://192.168.1.252/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza</link>
+						<pubDate>Thu, 01 Jan 1970 01:00:00 +0100</pubDate>
+						<guid isPermaLink="true">http://192.168.1.252/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier restaurant/mirepoix-pizza le 21/02/2015 18:44:52<br><a href="http://192.168.1.252/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier restaurant/mirepoix-pizza le 21/02/2015 18:44:52]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/restaurant/mirepoix-pizza.md]]></title>
+						<link>http://www.google.fr/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza</link>
+						<pubDate>Thu, 01 Jan 1970 01:00:00 +0100</pubDate>
+						<guid isPermaLink="true">http://www.google.fr/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier restaurant/mirepoix-pizza le 21/02/2015 18:01:27<br><a href="http://www.google.fr/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier restaurant/mirepoix-pizza le 21/02/2015 18:01:27]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/restaurant/mirepoix-pizza.md]]></title>
+						<link>http://www.google.fr/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza</link>
+						<pubDate>Thu, 01 Jan 1970 01:00:00 +0100</pubDate>
+						<guid isPermaLink="true">http://www.google.fr/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier restaurant/mirepoix-pizza le 21/02/2015 17:50:51<br><a href="http://www.google.fr/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier restaurant/mirepoix-pizza le 21/02/2015 17:50:51]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/restaurant/mirepoix-pizza.md]]></title>
+						<link>http://www.google.fr/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza</link>
+						<pubDate>Thu, 01 Jan 1970 01:00:00 +0100</pubDate>
+						<guid isPermaLink="true">http://www.google.fr/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier restaurant/mirepoix-pizza le 21/02/2015 17:50:32<br><a href="http://www.google.fr/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier restaurant/mirepoix-pizza le 21/02/2015 17:50:32]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/restaurant/mirepoix-pizza.md]]></title>
+						<link>http://www.google.fr/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza</link>
+						<pubDate>Thu, 01 Jan 1970 01:00:00 +0100</pubDate>
+						<guid isPermaLink="true">http://www.google.fr/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier restaurant/mirepoix-pizza le 21/02/2015 17:49:27<br><a href="http://www.google.fr/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier restaurant/mirepoix-pizza le 21/02/2015 17:49:27]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/restaurant/mirepoix-pizza.md]]></title>
+						<link>http://www.google.fr/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza</link>
+						<pubDate>Thu, 01 Jan 1970 01:00:00 +0100</pubDate>
+						<guid isPermaLink="true">http://www.google.fr/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier restaurant/mirepoix-pizza le 21/02/2015 17:41:04<br><a href="http://www.google.fr/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier restaurant/mirepoix-pizza le 21/02/2015 17:41:04]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/restaurant/mirepoix-pizza.md]]></title>
+						<link>http://www.google.fr/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza</link>
+						<pubDate>Thu, 01 Jan 1970 01:00:00 +0100</pubDate>
+						<guid isPermaLink="true">http://www.google.fr/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier restaurant/mirepoix-pizza le 21/02/2015 17:40:34<br><a href="http://www.google.fr/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier restaurant/mirepoix-pizza le 21/02/2015 17:40:34]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/restaurant/mirepoix-pizza.md]]></title>
+						<link>http://www.google.fr/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza</link>
+						<pubDate>Thu, 01 Jan 1970 01:00:00 +0100</pubDate>
+						<guid isPermaLink="true">http://www.google.fr/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier restaurant/mirepoix-pizza le 21/02/2015 17:40:23<br><a href="http://www.google.fr/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier restaurant/mirepoix-pizza le 21/02/2015 17:40:23]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/restaurant/mirepoix-pizza.md]]></title>
+						<link>http://www.google.fr/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza</link>
+						<pubDate>Thu, 01 Jan 1970 01:00:00 +0100</pubDate>
+						<guid isPermaLink="true">http://www.google.fr/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier restaurant/mirepoix-pizza le 21/02/2015 17:40:09<br><a href="http://www.google.fr/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier restaurant/mirepoix-pizza le 21/02/2015 17:40:09]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/restaurant/mirepoix-pizza.md]]></title>
+						<link>http://www.google.fr/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza</link>
+						<pubDate>Thu, 01 Jan 1970 01:00:00 +0100</pubDate>
+						<guid isPermaLink="true">http://www.google.fr/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier restaurant/mirepoix-pizza le 21/02/2015 17:36:48<br><a href="http://www.google.fr/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier restaurant/mirepoix-pizza le 21/02/2015 17:36:48]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/restaurant/mirepoix-pizza.md]]></title>
+						<link>http://www.google.fr/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza</link>
+						<pubDate>Thu, 01 Jan 1970 01:00:00 +0100</pubDate>
+						<guid isPermaLink="true">http://www.google.fr/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier restaurant/mirepoix-pizza le 21/02/2015 17:31:54<br><a href="http://www.google.fr/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier restaurant/mirepoix-pizza le 21/02/2015 17:31:54]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/Accueil.md]]></title>
+						<link>http://www.google.fr/?page=AccueilAccueil</link>
+						<pubDate>Thu, 01 Jan 1970 01:00:00 +0100</pubDate>
+						<guid isPermaLink="true">http://www.google.fr/?page=AccueilAccueil</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier Accueil le 21/02/2015 17:31:02<br><a href="http://www.google.fr/?page=AccueilAccueil">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier Accueil le 21/02/2015 17:31:02]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/restaurant/mirepoix-pizza.md]]></title>
+						<link>http://www.google.fr/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza</link>
+						<pubDate>Thu, 01 Jan 1970 01:00:00 +0100</pubDate>
+						<guid isPermaLink="true">http://www.google.fr/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier restaurant/mirepoix-pizza le 21/02/2015 17:25:37<br><a href="http://www.google.fr/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier restaurant/mirepoix-pizza le 21/02/2015 17:25:37]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/restaurant/mirepoix-pizza.md]]></title>
+						<link>http://www.google.fr/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza</link>
+						<pubDate>Thu, 01 Jan 1970 01:00:00 +0100</pubDate>
+						<guid isPermaLink="true">http://www.google.fr/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier restaurant/mirepoix-pizza le 21/02/2015 17:16:49<br><a href="http://www.google.fr/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier restaurant/mirepoix-pizza le 21/02/2015 17:16:49]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/restaurant/mirepoix-pizza.md]]></title>
+						<link>http://www.google.fr/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza</link>
+						<pubDate>Thu, 01 Jan 1970 01:00:00 +0100</pubDate>
+						<guid isPermaLink="true">http://www.google.fr/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier restaurant/mirepoix-pizza le 21/02/2015 17:11:38<br><a href="http://www.google.fr/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier restaurant/mirepoix-pizza le 21/02/2015 17:11:38]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/restaurant/mirepoix-pizza.md]]></title>
+						<link>http://www.google.fr/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza</link>
+						<pubDate>Thu, 01 Jan 1970 01:00:00 +0100</pubDate>
+						<guid isPermaLink="true">http://www.google.fr/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier restaurant/mirepoix-pizza le 21/02/2015 17:08:41<br><a href="http://www.google.fr/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier restaurant/mirepoix-pizza le 21/02/2015 17:08:41]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/restaurant/mirepoix-pizza.md]]></title>
+						<link>http://www.google.fr/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza</link>
+						<pubDate>Thu, 01 Jan 1970 01:00:00 +0100</pubDate>
+						<guid isPermaLink="true">http://www.google.fr/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier restaurant/mirepoix-pizza le 21/02/2015 17:07:02<br><a href="http://www.google.fr/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier restaurant/mirepoix-pizza le 21/02/2015 17:07:02]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/restaurant/mirepoix-pizza.md]]></title>
+						<link>http://www.google.fr/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza</link>
+						<pubDate>Thu, 01 Jan 1970 01:00:00 +0100</pubDate>
+						<guid isPermaLink="true">http://www.google.fr/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier restaurant/mirepoix-pizza le 21/02/2015 17:05:27<br><a href="http://www.google.fr/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier restaurant/mirepoix-pizza le 21/02/2015 17:05:27]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/restaurant/mirepoix-pizza.md]]></title>
+						<link>http://www.google.fr/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza</link>
+						<pubDate>Thu, 01 Jan 1970 01:00:00 +0100</pubDate>
+						<guid isPermaLink="true">http://www.google.fr/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier restaurant/mirepoix-pizza le 21/02/2015 17:02:23<br><a href="http://www.google.fr/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier restaurant/mirepoix-pizza le 21/02/2015 17:02:23]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/restaurant/mirepoix-pizza.md]]></title>
+						<link>http://www.google.fr/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza</link>
+						<pubDate>Thu, 01 Jan 1970 01:00:00 +0100</pubDate>
+						<guid isPermaLink="true">http://www.google.fr/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier restaurant/mirepoix-pizza le 21/02/2015 17:00:53<br><a href="http://www.google.fr/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier restaurant/mirepoix-pizza le 21/02/2015 17:00:53]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/restaurant/mirepoix-pizza.md]]></title>
+						<link>http://www.google.fr/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza</link>
+						<pubDate>Thu, 01 Jan 1970 01:00:00 +0100</pubDate>
+						<guid isPermaLink="true">http://www.google.fr/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier restaurant/mirepoix-pizza le 21/02/2015 16:59:02<br><a href="http://www.google.fr/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier restaurant/mirepoix-pizza le 21/02/2015 16:59:02]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/Accueil.md]]></title>
+						<link>http://192.168.1.252/?page=AccueilAccueil</link>
+						<pubDate>Thu, 01 Jan 1970 01:00:00 +0100</pubDate>
+						<guid isPermaLink="true">http://192.168.1.252/?page=AccueilAccueil</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier Accueil le 21/02/2015 16:58:27<br><a href="http://192.168.1.252/?page=AccueilAccueil">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier Accueil le 21/02/2015 16:58:27]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/restaurant/mirepoix-pizza.md]]></title>
+						<link>http://www.google.fr/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza</link>
+						<pubDate>Thu, 01 Jan 1970 01:00:00 +0100</pubDate>
+						<guid isPermaLink="true">http://www.google.fr/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier restaurant/mirepoix-pizza le 21/02/2015 16:57:14<br><a href="http://www.google.fr/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier restaurant/mirepoix-pizza le 21/02/2015 16:57:14]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/Accueil.md]]></title>
+						<link>http://www.google.fr/?page=AccueilAccueil</link>
+						<pubDate>Thu, 01 Jan 1970 01:00:00 +0100</pubDate>
+						<guid isPermaLink="true">http://www.google.fr/?page=AccueilAccueil</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier Accueil le 21/02/2015 14:40:19<br><a href="http://www.google.fr/?page=AccueilAccueil">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier Accueil le 21/02/2015 14:40:19]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/restaurant/mirepoix-pizza.md]]></title>
+						<link>http://www.google.fr/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza</link>
+						<pubDate>Thu, 01 Jan 1970 01:00:00 +0100</pubDate>
+						<guid isPermaLink="true">http://www.google.fr/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier restaurant/mirepoix-pizza le 21/02/2015 14:36:54<br><a href="http://www.google.fr/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier restaurant/mirepoix-pizza le 21/02/2015 14:36:54]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/restaurant/mirepoix-pizza.md]]></title>
+						<link>http://www.google.fr/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza</link>
+						<pubDate>Thu, 01 Jan 1970 01:00:00 +0100</pubDate>
+						<guid isPermaLink="true">http://www.google.fr/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier restaurant/mirepoix-pizza le 21/02/2015 14:36:15<br><a href="http://www.google.fr/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier restaurant/mirepoix-pizza le 21/02/2015 14:36:15]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/restaurant/mirepoix-pizza.md]]></title>
+						<link>http://www.google.fr/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza</link>
+						<pubDate>Thu, 01 Jan 1970 01:00:00 +0100</pubDate>
+						<guid isPermaLink="true">http://www.google.fr/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier restaurant/mirepoix-pizza le 21/02/2015 14:35:56<br><a href="http://www.google.fr/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier restaurant/mirepoix-pizza le 21/02/2015 14:35:56]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/Accueil.md]]></title>
+						<link>http://192.168.1.252/?page=AccueilAccueil</link>
+						<pubDate>Thu, 01 Jan 1970 01:00:00 +0100</pubDate>
+						<guid isPermaLink="true">http://192.168.1.252/?page=AccueilAccueil</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier Accueil le 21/02/2015 14:31:26<br><a href="http://192.168.1.252/?page=AccueilAccueil">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier Accueil le 21/02/2015 14:31:26]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/Accueil.md]]></title>
+						<link>http://192.168.1.252/?page=AccueilAccueil</link>
+						<pubDate>Thu, 01 Jan 1970 01:00:00 +0100</pubDate>
+						<guid isPermaLink="true">http://192.168.1.252/?page=AccueilAccueil</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier Accueil le 21/02/2015 14:18:04<br><a href="http://192.168.1.252/?page=AccueilAccueil">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier Accueil le 21/02/2015 14:18:04]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/Accueil.md]]></title>
+						<link>http://192.168.1.252/?page=AccueilAccueil</link>
+						<pubDate>Thu, 01 Jan 1970 01:00:00 +0100</pubDate>
+						<guid isPermaLink="true">http://192.168.1.252/?page=AccueilAccueil</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier Accueil le 21/02/2015 14:17:07<br><a href="http://192.168.1.252/?page=AccueilAccueil">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier Accueil le 21/02/2015 14:17:07]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/Accueil.md]]></title>
+						<link>http://192.168.1.252/?page=AccueilAccueil</link>
+						<pubDate>Thu, 01 Jan 1970 01:00:00 +0100</pubDate>
+						<guid isPermaLink="true">http://192.168.1.252/?page=AccueilAccueil</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier Accueil le 21/02/2015 14:16:48<br><a href="http://192.168.1.252/?page=AccueilAccueil">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier Accueil le 21/02/2015 14:16:48]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/Accueil.md]]></title>
+						<link>http://192.168.1.252/?page=AccueilAccueil</link>
+						<pubDate>Thu, 01 Jan 1970 01:00:00 +0100</pubDate>
+						<guid isPermaLink="true">http://192.168.1.252/?page=AccueilAccueil</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier Accueil le 21/02/2015 14:13:31<br><a href="http://192.168.1.252/?page=AccueilAccueil">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier Accueil le 21/02/2015 14:13:31]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/Accueil.md]]></title>
+						<link>http://192.168.1.252/?page=AccueilAccueil</link>
+						<pubDate>Thu, 01 Jan 1970 01:00:00 +0100</pubDate>
+						<guid isPermaLink="true">http://192.168.1.252/?page=AccueilAccueil</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier Accueil le 21/02/2015 13:26:31<br><a href="http://192.168.1.252/?page=AccueilAccueil">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier Accueil le 21/02/2015 13:26:31]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/Accueil.md]]></title>
+						<link>http://192.168.1.252/?page=AccueilAccueil</link>
+						<pubDate>Thu, 01 Jan 1970 01:00:00 +0100</pubDate>
+						<guid isPermaLink="true">http://192.168.1.252/?page=AccueilAccueil</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier Accueil le 21/02/2015 13:26:09<br><a href="http://192.168.1.252/?page=AccueilAccueil">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier Accueil le 21/02/2015 13:26:09]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/restaurant/mirepoix-pizza.md]]></title>
+						<link>http://www.wiki.com/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza</link>
+						<pubDate>Thu, 01 Jan 1970 01:00:00 +0100</pubDate>
+						<guid isPermaLink="true">http://www.wiki.com/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier restaurant/mirepoix-pizza le 21/02/2015 13:23:26<br><a href="http://www.wiki.com/?page=restaurant/mirepoix-pizzarestaurant/mirepoix-pizza">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier restaurant/mirepoix-pizza le 21/02/2015 13:23:26]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/Tournois.md]]></title>
+						<link>http://192.168.1.252/plume/?page=TournoisTournois</link>
+						<pubDate>Sat, 11 Jan 2014 23:00:00 +0100</pubDate>
+						<guid isPermaLink="true">http://192.168.1.252/plume/?page=TournoisTournois</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier Tournois le 01/11/2014 23:00:00<br><a href="http://192.168.1.252/plume/?page=TournoisTournois">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier Tournois le 01/11/2014 23:00:00]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/Tournois.md]]></title>
+						<link>http://192.168.1.252/plume/?page=TournoisTournois</link>
+						<pubDate>Sat, 11 Jan 2014 22:59:30 +0100</pubDate>
+						<guid isPermaLink="true">http://192.168.1.252/plume/?page=TournoisTournois</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier Tournois le 01/11/2014 22:59:30<br><a href="http://192.168.1.252/plume/?page=TournoisTournois">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier Tournois le 01/11/2014 22:59:30]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/Tournois.md]]></title>
+						<link>http://192.168.1.252/plume/?page=TournoisTournois</link>
+						<pubDate>Sat, 11 Jan 2014 22:58:03 +0100</pubDate>
+						<guid isPermaLink="true">http://192.168.1.252/plume/?page=TournoisTournois</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier Tournois le 01/11/2014 22:58:03<br><a href="http://192.168.1.252/plume/?page=TournoisTournois">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier Tournois le 01/11/2014 22:58:03]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/Tournois.md]]></title>
+						<link>http://192.168.1.252/plume/?page=TournoisTournois</link>
+						<pubDate>Sat, 11 Jan 2014 21:01:48 +0100</pubDate>
+						<guid isPermaLink="true">http://192.168.1.252/plume/?page=TournoisTournois</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier Tournois le 01/11/2014 21:01:48<br><a href="http://192.168.1.252/plume/?page=TournoisTournois">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier Tournois le 01/11/2014 21:01:48]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/Tournois.md]]></title>
+						<link>http://192.168.1.252/plume/?page=TournoisTournois</link>
+						<pubDate>Sat, 11 Jan 2014 20:51:07 +0100</pubDate>
+						<guid isPermaLink="true">http://192.168.1.252/plume/?page=TournoisTournois</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier Tournois le 01/11/2014 20:51:07<br><a href="http://192.168.1.252/plume/?page=TournoisTournois">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier Tournois le 01/11/2014 20:51:07]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/Tournois.md]]></title>
+						<link>http://192.168.1.252/plume/?page=TournoisTournois</link>
+						<pubDate>Sat, 11 Jan 2014 19:28:35 +0100</pubDate>
+						<guid isPermaLink="true">http://192.168.1.252/plume/?page=TournoisTournois</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier Tournois le 01/11/2014 19:28:35<br><a href="http://192.168.1.252/plume/?page=TournoisTournois">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier Tournois le 01/11/2014 19:28:35]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/Menu.md]]></title>
+						<link>http://192.168.1.252/plume/?page=TournoisMenu</link>
+						<pubDate>Sat, 11 Jan 2014 19:28:23 +0100</pubDate>
+						<guid isPermaLink="true">http://192.168.1.252/plume/?page=TournoisMenu</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier Menu le 01/11/2014 19:28:23<br><a href="http://192.168.1.252/plume/?page=TournoisMenu">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier Menu le 01/11/2014 19:28:23]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/Jeux.md]]></title>
+						<link>http://wiki/?page=JeuxJeux</link>
+						<pubDate>Sat, 11 Jan 2014 19:28:17 +0100</pubDate>
+						<guid isPermaLink="true">http://wiki/?page=JeuxJeux</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier Jeux le 01/11/2014 19:28:17<br><a href="http://wiki/?page=JeuxJeux">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier Jeux le 01/11/2014 19:28:17]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/Tournois.md]]></title>
+						<link>http://192.168.1.252/plume/?page=TournoisTournois</link>
+						<pubDate>Sat, 11 Jan 2014 19:28:11 +0100</pubDate>
+						<guid isPermaLink="true">http://192.168.1.252/plume/?page=TournoisTournois</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier Tournois le 01/11/2014 19:28:11<br><a href="http://192.168.1.252/plume/?page=TournoisTournois">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier Tournois le 01/11/2014 19:28:11]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
+						<title><![CDATA[Modification ./pages/Menu.md]]></title>
+						<link>http://192.168.1.252/plume/Menu</link>
+						<pubDate>Sat, 11 Jan 2014 19:19:22 +0100</pubDate>
+						<guid isPermaLink="true">http://192.168.1.252/plume/Menu</guid>
+						<description>
+						<![CDATA[admin a modifié le fichier Menu le 01/11/2014 19:19:22<br><a href="http://192.168.1.252/plume/Menu">Lire la suite</a>]]>
+						</description>
+						<content:encoded><![CDATA[admin a modifié le fichier Menu le 01/11/2014 19:19:22]]></content:encoded>
+						<category></category>
+						<dc:creator>Anonyme</dc:creator>
+					</item><item>
 						<title><![CDATA[Modification ./pages/Jeux.md]]></title>
 						<link>http://192.168.1.252/plume/?page=JeuxJeux</link>
 						<pubDate>Wed, 07 May 2014 15:54:31 +0200</pubDate>

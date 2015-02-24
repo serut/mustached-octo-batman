@@ -107,7 +107,37 @@ if ($page == MD_ACCUEIL) {
 $(function() {
 	$.ajax({
 		type: "POST",
-		url: "server.php?type=cod4&ip=91.121.55.41&port=28930",
+		url: "server.php?type=cod2&ip=cod2.lan&port=28950",
+		// contentType: "application/json; charset=utf-8",
+		error: function (x, e) { console.log(e.responseText); },
+		success: function (data) {
+			html = $.parseHTML(data)
+			$('#server-cod2').append(html);
+		}
+	});
+	$.ajax({
+		type: "POST",
+		url: "server.php?type=cod2&ip=cod2.lan&port=28951",
+		// contentType: "application/json; charset=utf-8",
+		error: function (x, e) { console.log(e.responseText); },
+		success: function (data) {
+			html = $.parseHTML(data)
+			$('#server-cod2qg1').append(html);
+		}
+	});
+	$.ajax({
+		type: "POST",
+		url: "server.php?type=cod2&ip=cod2.lan&port=28952",
+		// contentType: "application/json; charset=utf-8",
+		error: function (x, e) { console.log(e.responseText); },
+		success: function (data) {
+			html = $.parseHTML(data)
+			$('#server-cod2qg2').append(html);
+		}
+	});
+	$.ajax({
+		type: "POST",
+		url: "server.php?type=cod4&ip=cod4.lan&port=28960",
 		// contentType: "application/json; charset=utf-8",
 		error: function (x, e) { console.log(e.responseText); },
 		success: function (data) {
@@ -117,7 +147,7 @@ $(function() {
 	});
 	$.ajax({
 		type: "POST",
-		url: "server.php?type=dods&ip=162.252.82.28&port=27015",
+		url: "server.php?type=dods&ip=dods.lan&port=27015",
 		// contentType: "application/json; charset=utf-8",
 		error: function (x, e) { console.log(e.responseText); },
 		success: function (data) {
@@ -127,12 +157,32 @@ $(function() {
 	});
 	$.ajax({
 		type: "POST",
-		url: "server.php?type=tf2&ip=66.150.155.159&port=27016",
+		url: "server.php?type=tf2&ip=tf2.lan&port=27015",
 		// contentType: "application/json; charset=utf-8",
 		error: function (x, e) { console.log(e.responseText); },
 		success: function (data) {
 			html = $.parseHTML(data)
 			$('#server-tf2').append(html);
+		}
+	});
+	$.ajax({
+		type: "POST",
+		url: "server.php?type=ut3&ip=ut3.lan&port=7777",
+		// contentType: "application/json; charset=utf-8",
+		error: function (x, e) { console.log(e.responseText); },
+		success: function (data) {
+			html = $.parseHTML(data)
+			$('#server-ut3').append(html);
+		}
+	});
+	$.ajax({
+		type: "POST",
+		url: "server.php?type=bfbc2&ip=bfbc2.lan&port=48888",
+		// contentType: "application/json; charset=utf-8",
+		error: function (x, e) { console.log(e.responseText); },
+		success: function (data) {
+			html = $.parseHTML(data)
+			$('#server-bfbc2').append(html);
 		}
 	});
 });

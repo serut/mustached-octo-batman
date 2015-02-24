@@ -21,7 +21,8 @@ Films [Lien](http://192.168.1.250:8001/)  Séries  [Lien](http://192.168.1.250:8
 
 ###### Call of Duty 4 :
 
->- Promod Public :	<div id="server-cod4"></div>
+>- Promod Public :	192.168.1.240:28960
+<div id="server-cod4"></div>
 
 ---
 
@@ -31,21 +32,10 @@ Films [Lien](http://192.168.1.250:8001/)  Séries  [Lien](http://192.168.1.250:8
 
 ---
 
-###### Unreal Tournament 3 :
-
->- Public :	<div id="server-ut3"></div>
-
----
-
 ###### Day of Defeat Source :
 
->- Public :	<div id="server-dods"></div>
-
----
-
-###### Battlefield Bad Company 2 :
-
->- Public :	<div id="server-bfbc2"></div>
+>- Public :	192.168.1.244:27015
+<div id="server-dods"></div>
 
 ---
 
