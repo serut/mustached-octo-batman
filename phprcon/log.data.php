@@ -132,3 +132,42 @@
 2015-02-22 00:23:58 admin@CoD4 Promod204 Public: map mp_crossfire
 2015-02-22 00:25:11 admin@CoD4 Promod204 Public: clientkick 3 //Username=pikaworm IP=192.168.1.63 (--)
 2015-02-22 00:25:14 admin@CoD4 Promod204 Public: clientkick 3
+2015-04-04 17:04:05 admin@CoD2 Public: /rcon map_rotate
+2015-04-04 17:04:15 admin@CoD2 Public: /rcon map_rotate
+2015-04-04 17:04:34 admin@CoD2 Public: map_rotate
+2015-04-04 22:11:49 admin@CoD4 Promod204 Public: map mp_strike
+2015-04-04 22:11:58 admin@CoD4 Promod204 Public: g_gametype sd
+2015-04-04 22:12:01 admin@CoD4 Promod204 Public: map_restart
+2015-04-04 22:33:17 admin@CoD4 Promod204 Public: Joyeux anniversaire Seditio ! On est tous nul exprès pour ce jour ;)
+2015-04-04 22:34:06 admin@CoD4 Promod204 Public: tell Joyeux anniversaire Seditio ! On est tous nul exprès pour ce jour ;)
+2015-04-04 22:34:15 admin@CoD4 Promod204 Public: /tell Joyeux anniversaire Seditio ! On est tous nul exprès pour ce jour ;)
+2015-04-04 22:34:25 admin@CoD4 Promod204 Public: rcon tell Joyeux anniversaire Seditio ! On est tous nul exprès pour ce jour ;)
+2015-04-04 22:35:19 admin@CoD4 Promod204 Public: /rcon tell fQ' Seditio IV Joyeux anniversaire Seditio ! On est tous nul exprès pour ce jour ;)
+2015-04-04 22:35:30 admin@CoD4 Promod204 Public: /tell fQ' Seditio IV Joyeux anniversaire Seditio ! On est tous nul exprès pour ce jour ;)
+2015-04-04 22:36:19 admin@CoD4 Promod204 Public: /tell fQ' Seditio IV Joyeux anniversaire Seditio ! On est tous nul exprès pour ce jour ;)
+2015-04-04 22:36:25 admin@CoD4 Promod204 Public: tell fQ' Seditio IV Joyeux anniversaire Seditio ! On est tous nul exprès pour ce jour ;)
+2015-04-04 22:36:39 admin@CoD4 Promod204 Public: map_restart
+2015-04-04 22:37:07 admin@CoD4 Promod204 Public: map mp_backlot
+2015-04-04 22:56:00 admin@CoD4 Promod204 Public: map mp_crash
+2015-04-05 12:13:03 admin@CoD2 Public: map mp_dust2
+2015-04-05 12:13:27 admin@CoD2 Public: map mp_naout
+2015-04-05 12:14:00 admin@CoD2 Public: map mp_waldcamp
+2015-04-05 12:14:31 admin@CoD2 Public: map mp_tripoli
+2015-04-05 12:16:14 admin@CoD2 Public: map mp_tripoli
+2015-04-05 12:17:28 admin@CoD2 Public: map mp_tripoli
+2015-04-05 12:24:50 admin@CoD2 Public: map mp_tripoli
+2015-04-05 12:25:36 admin@CoD2 Public: map mp_waldcamp
+2015-04-05 12:26:24 admin@CoD2 Public: map mp_naout
+2015-04-05 12:27:26 admin@CoD2 Public: map zzz_mp_tripoli
+2015-04-05 12:27:44 admin@CoD2 Public: map mp_marais
+2015-04-05 12:40:25 admin@CoD2 Public: map_restart
+2015-04-05 12:41:08 admin@CoD2 Public: map zzz_mp_tripoli
+2015-04-05 12:41:21 admin@CoD2 Public: map mp_waldcamp
+2015-04-05 12:53:20 admin@CoD2 Public: map mp_twin_towers
+2015-04-05 12:53:31 admin@CoD2 Public: map mp_marais
+2015-04-05 13:13:50 admin@CoD2 Public: map mp_naout
+2015-04-05 13:44:11 admin@CoD2 Public: map mp_twin_towers
+2015-04-05 13:44:21 admin@CoD2 Public: map mp_tripoli
+2015-04-06 12:10:40 admin@CoD2 Public: map mp_leningrad
+2015-04-06 12:16:24 admin@CoD2 Public: map mp_naout
+2015-04-06 12:16:42 admin@CoD2 Public: map mp_naout

@@ -22,6 +22,7 @@ $list_of_maps[] = 'mp_railyard Stalingrad, Russia';
 $list_of_maps[] = 'mp_toujane Toujane, Tunisia';
 $list_of_maps[] = 'mp_breakout Villers-Bocage, France';
 $list_of_maps[] = 'mp_rhine Wallendar, Germany'; //1.3
+$list_of_maps[] = 'mp_naout North Africa Outpost'; //Custom
 
 $list_of_weapons[] = 'scr_allow_fraggrenades';
 $list_of_weapons[] = 'scr_allow_smokegrenades';
