@@ -4,6 +4,7 @@
 
 // CoD2
 $servers[] = 'cod2 cod2-public CoD2 Public';
+$servers[] = 'cod2 cod2-custom CoD2 Custom';
 $servers[] = 'cod2 cod2-hq1 CoD2 HeadQuarter1';
 $servers[] = 'cod2 cod2-hq2 CoD2 HeadQuarter2';
 
