@@ -2,4 +2,4 @@
 <a href="?page=Jeux">Jeux</a>
 <a href="?page=Tournois">Tournois</a>
 <a href="?page=Logiciels">Logiciels</a>
-<a href="?page=restaurant/mirepoix-pizza">Restauration</a>
+<a href="?page=restaurant/villeneuve-dolmes-pizza">Restauration</a>
